@@ -1,0 +1,6 @@
+{
+  "build": "npm run build",
+  "args": ["."],
+  "logFile": "logs/main.log",
+  "dev": { "args": ["."], "env": { "ELECTRON_RENDERER_URL": "http://localhost:5173" }, "url": "http://localhost:5173" }
+}
