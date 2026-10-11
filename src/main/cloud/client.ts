@@ -336,6 +336,18 @@ export class CloudClient {
     return (data as { url: string }).url;
   }
 
+  /** A one-time link that opens the website already signed in as this user. */
+  async webUrl(next: string): Promise<string> {
+    const s = await this.session();
+    if (!s || !this.sb) return `${this.cfg.webUrl}${next}`;
+    const { data, error } = await this.sb.functions.invoke("web-handoff", { body: { next }, headers: { Authorization: `Bearer ${s.access_token}` } });
+    if (error || !(data as { url?: string })?.url) {
+      this.log(`web handoff: ${error?.message ?? "no url"}`);
+      return `${this.cfg.webUrl}${next}`;
+    }
+    return (data as { url: string }).url;
+  }
+
   async portalUrl(): Promise<string> {
     const s = await this.session();
     if (!s || !this.sb) throw new Error("Sign in first");

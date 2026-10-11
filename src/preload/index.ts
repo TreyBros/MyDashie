@@ -57,6 +57,7 @@ const api = {
     cancelLogin: invoke(IPC.accountCancelLogin),
     checkout: invoke(IPC.accountCheckout),
     portal: invoke(IPC.accountPortal),
+    openWeb: invoke(IPC.accountOpenWeb),
     onChanged: (cb: () => void) => {
       const l = () => cb();
       ipcRenderer.on(IPC.accountChanged, l);

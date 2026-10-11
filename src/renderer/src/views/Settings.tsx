@@ -116,7 +116,7 @@ function AccountTab() {
             </p>
             <div className="mt-3 flex flex-wrap gap-2">
               <Button variant="primary" size="sm" loading={busy === "pack"} onClick={() => void act("pack", () => window.dash.account.checkout({ kind: "pack", id: "pack_50" }))}>Add credits</Button>
-              <Button size="sm" onClick={() => void window.dash.app.openExternal(`${acct.webUrl}/pricing`)}>Change plan</Button>
+              <Button size="sm" loading={busy === "web"} onClick={() => void act("web", () => window.dash.account.openWeb({ next: "/pricing" }))}>Change plan</Button>
               <Button size="sm" loading={busy === "portal"} onClick={() => void act("portal", () => window.dash.account.portal())}>Manage billing</Button>
             </div>
           </div>

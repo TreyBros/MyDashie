@@ -51,6 +51,7 @@ export const IPC = {
   accountCancelLogin: "account:cancel-login",
   accountCheckout: "account:checkout",
   accountPortal: "account:portal",
+  accountOpenWeb: "account:open-web",
   accountChanged: "account:changed", // main -> renderer
   // app
   appVersion: "app:version",

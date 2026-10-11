@@ -71,6 +71,8 @@ export interface DashApi {
     cancelLogin(): Promise<void>;
     checkout(input: { kind: "plan" | "pack"; id: string }): Promise<string>;
     portal(): Promise<string>;
+    /** Opens a page on the website, signed in as the current user. */
+    openWeb(input: { next: string }): Promise<string>;
     onChanged(cb: () => void): () => void;
   };
   app: {

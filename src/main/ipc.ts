@@ -309,6 +309,11 @@ export function registerIpc(ctx: AppContext) {
     await shell.openExternal(url);
     return url;
   });
+  handle(IPC.accountOpenWeb, z.object({ next: z.string().regex(/^\/[a-z0-9/_-]*$/i).max(80) }), async ({ next }) => {
+    const url = await cloud.webUrl(next);
+    await shell.openExternal(url);
+    return url;
+  });
   handle(IPC.accountPortal, null, async () => {
     const url = await cloud.portalUrl();
     await shell.openExternal(url);
