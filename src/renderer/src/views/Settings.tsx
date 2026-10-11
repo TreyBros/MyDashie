@@ -384,6 +384,7 @@ function AppsTab() {
           )}
           <div className="mt-4">
             <Input value={query} onChange={(e) => setQuery(e.target.value)} placeholder="Search 1,600+ apps: Stripe, HubSpot, Google Sheets, Granola…" />
+            <p className="mt-2 text-[11.5px] text-muted">App connections are powered by Composio, so you'll see that name when an app asks you to approve access. Dashie only ever reads.</p>
             {(results.length > 0 || searching) && (
               <div className="card mt-2 divide-y divide-line">
                 {searching && results.length === 0 && <div className="p-3 text-[12.5px] text-muted">Searching…</div>}

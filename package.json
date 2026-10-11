@@ -1,7 +1,7 @@
 {
   "name": "mydashie",
   "productName": "MyDashie",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Self-service reporting AI. Describe a dashboard, get it built, keep it fresh on a schedule.",
   "author": "MyDashie",
   "license": "AGPL-3.0-only",

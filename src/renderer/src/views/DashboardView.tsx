@@ -470,6 +470,7 @@ function Activity({ item, dash }: { item: ActivityItem; dash: DashboardManifest 
     return (
       <div className="rounded-2xl border border-lilac/30 bg-lilac-soft/60 p-3">
         <div className="mb-2 text-[13px] text-ink">{item.text.replace(/^Connect /, "") ? `Dashie needs access to ${item.text.replace(/^Connect /, "")} to continue.` : "Dashie needs access to continue."} It opens in your browser and takes a few seconds.</div>
+        <div className="mb-2 text-[11.5px] text-muted">Secure connection powered by Composio. Read-only access.</div>
         <ConnectActions d={dash} link={item} compact />
       </div>
     );
