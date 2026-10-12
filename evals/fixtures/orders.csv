@@ -1,0 +1,2401 @@
+order_id,order_date,region,product,units,revenue,customer
+1001,2026-06-14,Europe,Scale,4,1241.31,cust_199
+1002,2026-02-12,North America,Starter,5,151.10,cust_256
+1003,2026-04-13,North America,Enterprise,5,4800.44,cust_172
+1004,2026-03-21,North America,Scale,5,1586.20,cust_44
+1005,2026-04-06,North America,Starter,3,91.67,cust_104
+1006,2026-05-26,North America,Growth,4,412.00,cust_325
+1007,2026-08-18,North America,Growth,5,459.31,cust_322
+1008,2026-03-23,North America,Starter,1,31.54,cust_92
+1009,2026-04-02,Europe,Growth,5,505.68,cust_236
+1010,2026-01-26,North America,Enterprise,5,4260.50,cust_310
+1011,2026-03-04,North America,Starter,1,28.16,cust_207
+1012,2026-10-08,North America,Starter,4,114.04,cust_9
+1013,2026-08-02,Europe,Starter,4,116.69,cust_291
+1014,2026-06-27,North America,Starter,1,28.01,cust_206
+1015,2026-03-23,Latin America,Growth,1,107.98,cust_223
+1016,2026-06-17,North America,Scale,4,1187.66,cust_297
+1017,2026-07-01,Europe,Starter,3,79.48,cust_344
+1018,2026-04-07,Europe,Starter,1,29.22,cust_171
+1019,2026-09-26,North America,Enterprise,4,3683.11,cust_199
+1020,2026-05-10,North America,Starter,1,28.02,cust_377
+1021,2026-06-28,North America,Starter,4,124.94,cust_98
+1022,2026-01-19,Europe,Growth,2,208.45,cust_357
+1023,2026-02-17,North America,Starter,3,82.50,cust_293
+1024,2026-03-15,North America,Starter,1,30.84,cust_4
+1025,2026-09-04,North America,Starter,4,111.78,cust_145
+1026,2026-06-05,Europe,Scale,4,1174.58,cust_119
+1027,2026-06-20,Asia Pacific,Starter,1,26.52,cust_339
+1028,2026-06-07,Asia Pacific,Scale,5,1604.62,cust_19
+1029,2026-04-22,North America,Growth,4,405.02,cust_321
+1030,2026-07-10,North America,Scale,3,862.43,cust_62
+1031,2026-02-17,North America,Scale,1,278.86,cust_261
+1032,2026-02-06,North America,Starter,5,152.17,cust_133
+1033,2026-04-18,Europe,Growth,5,511.41,cust_156
+1034,2026-01-02,North America,Starter,3,81.40,cust_284
+1035,2026-07-14,North America,Starter,3,90.86,cust_62
+1036,2026-06-30,Europe,Enterprise,1,934.79,cust_40
+1037,2026-10-02,Europe,Starter,3,90.57,cust_365
+1038,2026-01-19,North America,Starter,2,54.47,cust_237
+1039,2026-02-19,North America,Growth,2,196.56,cust_174
+1040,2026-01-31,Europe,Scale,1,320.57,cust_329
+1041,2026-07-26,Europe,Starter,5,148.62,cust_371
+1042,2026-03-13,Europe,Enterprise,5,4600.41,cust_24
+1043,2026-06-30,North America,Starter,4,106.53,cust_353
+1044,2026-03-17,Europe,Scale,3,843.47,cust_73
+1045,2026-06-27,Europe,Scale,4,1294.49,cust_365
+1046,2026-02-09,North America,Enterprise,1,962.87,cust_151
+1047,2026-03-12,North America,Growth,5,477.77,cust_132
+1048,2026-03-29,North America,Starter,3,82.82,cust_278
+1049,2026-08-04,North America,Starter,2,55.10,cust_322
+1050,2026-02-21,North America,Starter,2,62.23,cust_240
+1051,2026-04-13,Asia Pacific,Starter,4,107.41,cust_292
+1052,2026-06-12,North America,Starter,1,30.86,cust_334
+1053,2026-01-28,Europe,Growth,4,383.48,cust_137
+1054,2026-05-08,North America,Scale,1,303.73,cust_123
+1055,2026-02-24,North America,Growth,4,424.62,cust_241
+1056,2026-09-15,Europe,Enterprise,1,817.78,cust_119
+1057,2026-04-01,North America,Scale,3,961.58,cust_328
+1058,2026-08-11,North America,Starter,5,153.19,cust_109
+1059,2026-09-07,North America,Starter,1,29.84,cust_273
+1060,2026-04-23,Asia Pacific,Enterprise,1,883.69,cust_218
+1061,2026-09-04,North America,Enterprise,5,4794.38,cust_257
+1062,2026-01-27,North America,Enterprise,5,4911.66,cust_259
+1063,2026-04-05,North America,Starter,3,90.97,cust_379
+1064,2026-04-22,North America,Scale,2,657.05,cust_325
+1065,2026-06-10,North America,Starter,1,31.65,cust_111
+1066,2026-05-02,Europe,Enterprise,4,3682.43,cust_164
+1067,2026-05-28,Europe,Starter,3,79.60,cust_177
+1068,2026-05-03,North America,Starter,2,54.95,cust_37
+1069,2026-02-23,North America,Starter,5,142.76,cust_319
+1070,2026-05-07,Asia Pacific,Starter,5,154.49,cust_288
+1071,2026-06-03,Europe,Enterprise,4,3845.22,cust_313
+1072,2026-03-19,North America,Starter,5,157.39,cust_66
+1073,2026-06-03,North America,Starter,4,124.04,cust_293
+1074,2026-07-19,North America,Starter,5,152.41,cust_146
+1075,2026-09-20,Europe,Starter,5,130.75,cust_328
+1076,2026-08-02,Asia Pacific,Growth,3,302.75,cust_268
+1077,2026-07-03,Asia Pacific,Scale,4,1293.48,cust_319
+1078,2026-02-23,North America,Enterprise,3,2962.12,cust_36
+1079,2026-04-10,Europe,Growth,1,93.09,cust_324
+1080,2026-04-28,Asia Pacific,Starter,3,82.74,cust_188
+1081,2026-08-09,North America,Starter,1,30.88,cust_237
+1082,2026-06-22,Europe,Enterprise,1,836.05,cust_258
+1083,2026-08-01,Europe,Growth,3,302.17,cust_304
+1084,2026-04-08,Europe,Growth,2,189.52,cust_283
+1085,2026-05-15,North America,Growth,1,98.13,cust_38
+1086,2026-02-20,Asia Pacific,Growth,5,445.98,cust_296
+1087,2026-06-06,North America,Scale,2,598.34,cust_344
+1088,2026-04-24,Europe,Growth,4,398.07,cust_70
+1089,2026-02-14,North America,Scale,3,953.51,cust_257
+1090,2026-01-18,North America,Growth,3,320.26,cust_174
+1091,2026-03-16,North America,Scale,4,1132.59,cust_316
+1092,2026-03-05,Asia Pacific,Starter,2,60.14,cust_364
+1093,2026-01-22,North America,Starter,1,29.78,cust_11
+1094,2026-01-08,North America,Starter,3,95.57,cust_279
+1095,2026-05-12,Asia Pacific,Growth,2,207.68,cust_187
+1096,2026-02-02,North America,Starter,1,29.61,cust_173
+1097,2026-03-07,Europe,Growth,5,536.27,cust_370
+1098,2026-02-08,North America,Growth,1,103.16,cust_185
+1099,2026-09-12,North America,Growth,3,321.97,cust_176
+1100,2026-01-29,North America,Enterprise,5,4358.20,cust_362
+1101,2026-05-16,North America,Starter,5,135.86,cust_137
+1102,2026-02-01,Europe,Growth,4,367.40,cust_286
+1103,2026-09-07,North America,Starter,3,87.49,cust_217
+1104,2026-08-06,Europe,Starter,2,53.00,cust_195
+1105,2026-04-16,North America,Growth,1,94.90,cust_150
+1106,2026-08-06,Europe,Growth,4,382.05,cust_44
+1107,2026-08-15,North America,Starter,1,26.51,cust_188
+1108,2026-10-08,North America,Starter,5,153.23,cust_278
+1109,2026-04-22,Asia Pacific,Starter,4,123.48,cust_60
+1110,2026-09-01,North America,Scale,5,1434.03,cust_304
+1111,2026-08-03,Europe,Enterprise,4,3595.51,cust_218
+1112,2026-04-24,Europe,Scale,2,551.07,cust_323
+1113,2026-03-22,North America,Growth,5,514.86,cust_192
+1114,2026-02-21,North America,Scale,1,323.97,cust_46
+1115,2026-02-28,Europe,Starter,2,63.54,cust_10
+1116,2026-07-28,North America,Enterprise,4,3639.41,cust_349
+1117,2026-05-20,North America,Scale,4,1307.26,cust_230
+1118,2026-09-26,North America,Scale,2,651.38,cust_368
+1119,2026-04-16,North America,Scale,4,1300.27,cust_28
+1120,2026-04-30,North America,Enterprise,5,4775.87,cust_333
+1121,2026-06-06,North America,Enterprise,5,4787.88,cust_210
+1122,2026-09-25,Asia Pacific,Enterprise,4,3284.81,cust_307
+1123,2026-05-26,North America,Enterprise,4,3749.24,cust_162
+1124,2026-03-08,Europe,Growth,1,104.26,cust_79
+1125,2026-01-12,North America,Starter,2,53.81,cust_6
+1126,2026-03-19,Europe,Starter,1,26.80,cust_47
+1127,2026-05-29,North America,Starter,2,63.44,cust_185
+1128,2026-04-14,North America,Starter,1,26.66,cust_175
+1129,2026-02-15,North America,Growth,1,95.02,cust_95
+1130,2026-03-27,North America,Scale,4,1129.92,cust_121
+1131,2026-09-07,North America,Starter,1,29.83,cust_33
+1132,2026-08-28,Europe,Scale,1,316.45,cust_328
+1133,2026-01-28,North America,Growth,5,466.38,cust_12
+1134,2026-08-03,Latin America,Starter,1,27.38,cust_77
+1135,2026-02-25,North America,Growth,1,103.24,cust_138
+1136,2026-09-30,North America,Growth,5,472.61,cust_134
+1137,2026-08-22,North America,Scale,2,581.41,cust_284
+1138,2026-05-28,North America,Scale,1,276.97,cust_216
+1139,2026-01-17,North America,Starter,2,58.86,cust_301
+1140,2026-05-07,North America,Growth,2,195.23,cust_185
+1141,2026-05-30,North America,Growth,5,506.48,cust_107
+1142,2026-06-14,North America,Starter,4,109.06,cust_110
+1143,2026-06-04,North America,Starter,2,59.23,cust_370
+1144,2026-07-30,Asia Pacific,Starter,1,26.63,cust_247
+1145,2026-01-25,North America,Enterprise,1,940.61,cust_244
+1146,2026-06-18,Asia Pacific,Growth,2,196.61,cust_43
+1147,2026-05-31,North America,Starter,1,29.48,cust_46
+1148,2026-08-27,Europe,Enterprise,3,2666.35,cust_306
+1149,2026-10-04,Asia Pacific,Starter,2,56.99,cust_28
+1150,2026-08-01,North America,Growth,3,288.84,cust_298
+1151,2026-02-07,Europe,Starter,2,56.94,cust_288
+1152,2026-05-02,North America,Scale,1,325.50,cust_225
+1153,2026-05-05,North America,Starter,4,123.63,cust_56
+1154,2026-05-17,Europe,Starter,2,56.28,cust_274
+1155,2026-01-29,Asia Pacific,Growth,4,393.36,cust_263
+1156,2026-05-01,North America,Enterprise,2,1909.36,cust_300
+1157,2026-06-05,North America,Scale,1,281.12,cust_301
+1158,2026-01-07,Europe,Starter,4,107.23,cust_92
+1159,2026-05-26,North America,Enterprise,3,2815.41,cust_106
+1160,2026-08-17,North America,Growth,5,479.04,cust_357
+1161,2026-03-06,North America,Starter,2,55.93,cust_147
+1162,2026-07-29,North America,Scale,5,1638.49,cust_64
+1163,2026-04-26,Latin America,Scale,5,1534.99,cust_81
+1164,2026-01-20,North America,Starter,1,29.48,cust_130
+1165,2026-01-16,North America,Starter,5,137.20,cust_60
+1166,2026-05-17,Europe,Starter,5,154.20,cust_364
+1167,2026-09-01,North America,Starter,2,61.73,cust_337
+1168,2026-07-10,North America,Starter,4,108.87,cust_359
+1169,2026-06-17,Latin America,Growth,5,453.92,cust_311
+1170,2026-04-05,North America,Enterprise,1,812.35,cust_157
+1171,2026-05-20,North America,Scale,3,949.47,cust_63
+1172,2026-01-01,Asia Pacific,Enterprise,2,1854.42,cust_114
+1173,2026-01-18,North America,Growth,2,183.73,cust_112
+1174,2026-05-09,Latin America,Growth,4,403.10,cust_67
+1175,2026-06-06,North America,Scale,1,324.69,cust_102
+1176,2026-03-10,North America,Starter,5,139.73,cust_95
+1177,2026-02-01,North America,Starter,3,90.33,cust_314
+1178,2026-08-19,North America,Starter,1,28.44,cust_353
+1179,2026-06-29,North America,Growth,1,100.28,cust_16
+1180,2026-06-21,North America,Enterprise,5,4798.65,cust_314
+1181,2026-08-02,North America,Growth,2,203.63,cust_243
+1182,2026-04-11,Europe,Scale,5,1428.37,cust_39
+1183,2026-07-20,North America,Starter,1,27.36,cust_324
+1184,2026-09-17,North America,Starter,1,28.62,cust_168
+1185,2026-07-07,North America,Growth,4,374.18,cust_237
+1186,2026-03-27,North America,Starter,2,59.97,cust_74
+1187,2026-02-07,North America,Starter,5,151.29,cust_180
+1188,2026-08-11,North America,Starter,2,63.44,cust_299
+1189,2026-02-20,Europe,Starter,4,111.80,cust_62
+1190,2026-02-05,Europe,Growth,2,192.08,cust_123
+1191,2026-09-21,Europe,Enterprise,5,4574.92,cust_87
+1192,2026-07-29,Asia Pacific,Enterprise,4,3786.48,cust_321
+1193,2026-06-15,North America,Starter,5,136.31,cust_198
+1194,2026-09-11,North America,Growth,1,89.21,cust_171
+1195,2026-04-23,North America,Growth,4,428.93,cust_205
+1196,2026-08-01,North America,Growth,3,295.79,cust_197
+1197,2026-01-08,North America,Starter,4,105.58,cust_214
+1198,2026-09-03,Europe,Starter,4,111.62,cust_157
+1199,2026-04-13,North America,Growth,4,431.20,cust_186
+1200,2026-07-12,North America,Scale,4,1141.36,cust_211
+1201,2026-06-20,North America,Starter,1,31.80,cust_325
+1202,2026-02-28,Europe,Enterprise,2,1974.91,cust_28
+1203,2026-01-09,North America,Starter,3,78.61,cust_262
+1204,2026-08-19,North America,Enterprise,5,4141.03,cust_115
+1205,2026-08-06,Europe,Starter,3,90.20,cust_282
+1206,2026-05-09,North America,Starter,2,58.67,cust_315
+1207,2026-01-07,North America,Enterprise,5,4634.84,cust_323
+1208,2026-03-21,North America,Enterprise,2,1917.79,cust_233
+1209,2026-08-19,Europe,Scale,4,1112.37,cust_268
+1210,2026-03-14,North America,Starter,3,85.06,cust_39
+1211,2026-04-24,North America,Scale,4,1135.63,cust_298
+1212,2026-04-03,North America,Starter,5,140.63,cust_220
+1213,2026-06-25,North America,Starter,5,144.66,cust_34
+1214,2026-06-14,North America,Starter,4,122.65,cust_309
+1215,2026-08-24,North America,Growth,2,189.26,cust_294
+1216,2026-02-01,North America,Starter,3,84.34,cust_205
+1217,2026-09-18,North America,Scale,3,887.10,cust_235
+1218,2026-03-31,Europe,Starter,5,138.97,cust_327
+1219,2026-05-19,North America,Starter,2,63.49,cust_115
+1220,2026-03-05,North America,Scale,2,579.62,cust_162
+1221,2026-09-06,Europe,Scale,2,605.32,cust_107
+1222,2026-05-29,North America,Enterprise,4,3428.50,cust_47
+1223,2026-03-26,North America,Growth,1,100.16,cust_119
+1224,2026-06-30,Europe,Scale,5,1371.21,cust_135
+1225,2026-06-28,North America,Starter,1,30.95,cust_183
+1226,2026-01-22,North America,Starter,1,29.44,cust_10
+1227,2026-06-07,Europe,Scale,2,591.11,cust_260
+1228,2026-09-13,North America,Starter,5,135.79,cust_127
+1229,2026-05-16,North America,Scale,2,633.33,cust_24
+1230,2026-04-06,North America,Scale,4,1140.81,cust_108
+1231,2026-06-03,Asia Pacific,Enterprise,4,3505.54,cust_347
+1232,2026-06-12,North America,Growth,2,212.67,cust_171
+1233,2026-01-11,Europe,Starter,3,90.69,cust_117
+1234,2026-09-03,Asia Pacific,Starter,2,60.88,cust_200
+1235,2026-02-17,North America,Starter,3,82.17,cust_279
+1236,2026-01-01,North America,Starter,3,89.21,cust_199
+1237,2026-06-28,North America,Growth,2,210.59,cust_218
+1238,2026-04-23,Europe,Starter,2,62.16,cust_116
+1239,2026-02-24,Asia Pacific,Starter,2,56.77,cust_167
+1240,2026-04-11,North America,Starter,2,54.89,cust_145
+1241,2026-01-15,North America,Starter,5,158.49,cust_284
+1242,2026-04-15,Asia Pacific,Scale,2,648.34,cust_330
+1243,2026-06-13,North America,Starter,1,29.76,cust_133
+1244,2026-02-13,North America,Scale,3,893.75,cust_32
+1245,2026-08-02,North America,Growth,2,200.78,cust_304
+1246,2026-02-19,Europe,Starter,2,58.43,cust_69
+1247,2026-05-21,North America,Growth,2,195.11,cust_374
+1248,2026-02-02,North America,Growth,5,465.46,cust_371
+1249,2026-02-12,Europe,Enterprise,5,4565.19,cust_21
+1250,2026-03-22,Asia Pacific,Starter,1,27.12,cust_165
+1251,2026-09-30,North America,Starter,1,26.16,cust_135
+1252,2026-01-26,Europe,Scale,1,301.51,cust_93
+1253,2026-04-11,Europe,Scale,1,324.99,cust_221
+1254,2026-03-07,North America,Enterprise,5,4157.16,cust_345
+1255,2026-07-13,Europe,Growth,5,470.23,cust_296
+1256,2026-09-05,North America,Growth,4,416.47,cust_183
+1257,2026-03-12,North America,Scale,3,856.18,cust_47
+1258,2026-09-10,North America,Starter,4,120.63,cust_303
+1259,2026-03-08,Europe,Growth,1,98.96,cust_164
+1260,2026-01-30,North America,Scale,5,1353.59,cust_287
+1261,2026-06-19,North America,Starter,1,29.42,cust_31
+1262,2026-05-29,North America,Enterprise,4,3395.38,cust_259
+1263,2026-09-25,North America,Enterprise,1,894.51,cust_252
+1264,2026-01-10,North America,Starter,4,112.67,cust_178
+1265,2026-02-08,Europe,Growth,1,94.04,cust_100
+1266,2026-09-04,North America,Starter,5,135.81,cust_203
+1267,2026-02-07,Latin America,Enterprise,4,3457.91,cust_172
+1268,2026-02-23,Europe,Starter,5,143.61,cust_11
+1269,2026-08-05,North America,Starter,5,155.01,cust_33
+1270,2026-08-29,North America,Enterprise,3,2716.14,cust_49
+1271,2026-04-21,North America,Starter,3,93.99,cust_147
+1272,2026-06-13,Asia Pacific,Enterprise,1,903.64,cust_92
+1273,2026-02-11,North America,Growth,4,367.82,cust_106
+1274,2026-10-04,North America,Growth,1,99.85,cust_96
+1275,2026-04-08,Europe,Starter,5,147.79,cust_189
+1276,2026-03-27,North America,Enterprise,4,3502.68,cust_342
+1277,2026-04-20,North America,Scale,4,1172.20,cust_230
+1278,2026-02-09,Europe,Growth,4,402.27,cust_20
+1279,2026-06-14,Asia Pacific,Enterprise,4,3750.44,cust_85
+1280,2026-02-05,North America,Starter,5,153.19,cust_112
+1281,2026-02-14,Asia Pacific,Enterprise,5,4883.31,cust_349
+1282,2026-02-01,Asia Pacific,Starter,2,53.59,cust_169
+1283,2026-06-26,Europe,Growth,5,534.78,cust_254
+1284,2026-08-14,North America,Scale,5,1559.89,cust_276
+1285,2026-07-10,North America,Scale,5,1619.00,cust_221
+1286,2026-01-03,Latin America,Enterprise,4,3840.79,cust_210
+1287,2026-03-26,North America,Scale,2,561.01,cust_362
+1288,2026-03-22,Asia Pacific,Starter,4,119.64,cust_13
+1289,2026-09-02,North America,Starter,5,158.83,cust_200
+1290,2026-01-22,North America,Enterprise,1,814.51,cust_160
+1291,2026-07-04,North America,Starter,5,146.42,cust_216
+1292,2026-05-18,Europe,Starter,3,87.82,cust_240
+1293,2026-02-07,North America,Starter,2,57.28,cust_82
+1294,2026-01-26,North America,Scale,4,1215.53,cust_52
+1295,2026-06-15,North America,Starter,4,111.86,cust_52
+1296,2026-09-25,North America,Enterprise,1,901.14,cust_50
+1297,2026-09-10,Europe,Enterprise,1,818.41,cust_144
+1298,2026-01-23,Europe,Starter,4,121.72,cust_303
+1299,2026-09-04,Europe,Starter,5,157.87,cust_315
+1300,2026-07-18,North America,Starter,1,28.32,cust_69
+1301,2026-05-01,North America,Enterprise,5,4769.79,cust_282
+1302,2026-08-17,North America,Scale,4,1192.55,cust_344
+1303,2026-09-24,Europe,Starter,2,53.24,cust_103
+1304,2026-07-31,North America,Starter,5,157.66,cust_241
+1305,2026-03-12,North America,Starter,2,55.41,cust_329
+1306,2026-08-25,North America,Growth,5,473.19,cust_308
+1307,2026-09-13,North America,Starter,4,115.00,cust_228
+1308,2026-03-29,Europe,Starter,2,52.29,cust_92
+1309,2026-05-12,North America,Starter,2,56.47,cust_170
+1310,2026-08-13,North America,Enterprise,5,4220.39,cust_354
+1311,2026-05-03,Asia Pacific,Starter,3,89.47,cust_330
+1312,2026-09-11,Asia Pacific,Enterprise,1,954.11,cust_57
+1313,2026-10-07,Asia Pacific,Scale,3,828.61,cust_137
+1314,2026-06-26,North America,Starter,4,123.45,cust_211
+1315,2026-08-08,Asia Pacific,Enterprise,1,845.00,cust_317
+1316,2026-07-31,Europe,Starter,2,63.52,cust_275
+1317,2026-04-21,North America,Enterprise,5,4831.33,cust_33
+1318,2026-04-14,North America,Scale,4,1292.73,cust_181
+1319,2026-05-17,North America,Starter,3,83.27,cust_102
+1320,2026-03-05,Europe,Growth,1,89.11,cust_33
+1321,2026-05-31,Asia Pacific,Enterprise,3,2605.98,cust_7
+1322,2026-02-25,Europe,Growth,1,93.33,cust_7
+1323,2026-09-16,North America,Growth,1,105.66,cust_149
+1324,2026-06-30,North America,Scale,1,292.55,cust_216
+1325,2026-01-02,Asia Pacific,Growth,4,425.15,cust_110
+1326,2026-08-25,North America,Growth,1,96.01,cust_153
+1327,2026-09-20,North America,Starter,4,121.97,cust_234
+1328,2026-02-24,Asia Pacific,Starter,3,87.04,cust_204
+1329,2026-06-12,North America,Growth,5,481.86,cust_43
+1330,2026-05-02,North America,Starter,1,27.77,cust_109
+1331,2026-07-10,North America,Starter,3,86.19,cust_203
+1332,2026-06-05,North America,Scale,3,845.44,cust_327
+1333,2026-05-07,North America,Growth,5,451.74,cust_256
+1334,2026-07-12,Latin America,Starter,2,63.59,cust_188
+1335,2026-01-16,Latin America,Growth,2,194.84,cust_227
+1336,2026-05-16,North America,Starter,4,107.55,cust_130
+1337,2026-07-14,Europe,Enterprise,3,2468.11,cust_278
+1338,2026-08-22,North America,Enterprise,4,3546.37,cust_23
+1339,2026-03-09,North America,Scale,2,555.06,cust_344
+1340,2026-09-27,North America,Starter,4,106.91,cust_140
+1341,2026-10-08,North America,Scale,4,1274.07,cust_302
+1342,2026-03-22,North America,Enterprise,1,938.68,cust_351
+1343,2026-06-13,North America,Starter,3,82.50,cust_158
+1344,2026-05-10,Asia Pacific,Scale,4,1166.17,cust_201
+1345,2026-03-28,North America,Scale,3,838.69,cust_240
+1346,2026-09-19,North America,Growth,1,93.01,cust_251
+1347,2026-03-21,North America,Starter,1,26.57,cust_301
+1348,2026-04-06,North America,Growth,4,363.82,cust_79
+1349,2026-03-29,North America,Growth,4,373.11,cust_314
+1350,2026-05-23,Asia Pacific,Starter,5,152.70,cust_316
+1351,2026-03-20,Asia Pacific,Starter,4,123.05,cust_118
+1352,2026-06-21,North America,Growth,5,476.71,cust_287
+1353,2026-01-05,Asia Pacific,Scale,2,587.21,cust_174
+1354,2026-01-31,North America,Starter,2,59.59,cust_376
+1355,2026-06-07,North America,Starter,3,78.31,cust_327
+1356,2026-05-01,North America,Scale,5,1468.28,cust_174
+1357,2026-08-08,Europe,Starter,3,79.33,cust_351
+1358,2026-05-25,Latin America,Starter,3,95.11,cust_150
+1359,2026-04-04,North America,Starter,3,91.28,cust_239
+1360,2026-03-29,North America,Starter,1,26.68,cust_205
+1361,2026-01-22,North America,Starter,4,108.19,cust_29
+1362,2026-04-16,North America,Starter,3,88.15,cust_146
+1363,2026-08-27,North America,Starter,1,26.92,cust_326
+1364,2026-05-14,Asia Pacific,Growth,5,505.62,cust_246
+1365,2026-01-12,Europe,Starter,5,158.12,cust_66
+1366,2026-06-21,Europe,Scale,4,1263.63,cust_251
+1367,2026-04-30,North America,Growth,1,101.87,cust_20
+1368,2026-05-18,Europe,Scale,3,870.22,cust_247
+1369,2026-02-19,North America,Scale,3,835.35,cust_342
+1370,2026-05-11,North America,Starter,3,83.22,cust_188
+1371,2026-07-07,North America,Starter,4,119.28,cust_61
+1372,2026-04-18,North America,Enterprise,3,2927.10,cust_78
+1373,2026-01-31,North America,Starter,4,126.94,cust_168
+1374,2026-02-19,Asia Pacific,Starter,3,90.56,cust_233
+1375,2026-03-26,Europe,Enterprise,2,1849.75,cust_356
+1376,2026-02-18,North America,Growth,2,211.18,cust_45
+1377,2026-02-03,North America,Starter,1,30.85,cust_90
+1378,2026-04-21,North America,Scale,4,1306.25,cust_16
+1379,2026-05-21,North America,Starter,2,62.36,cust_211
+1380,2026-07-01,Europe,Starter,2,60.12,cust_27
+1381,2026-02-27,North America,Starter,1,27.92,cust_164
+1382,2026-03-10,North America,Enterprise,3,2744.17,cust_75
+1383,2026-06-19,North America,Growth,5,503.22,cust_309
+1384,2026-06-29,North America,Scale,5,1563.18,cust_309
+1385,2026-06-24,Europe,Starter,2,54.31,cust_112
+1386,2026-09-19,Europe,Scale,4,1079.34,cust_79
+1387,2026-07-28,North America,Starter,5,131.81,cust_115
+1388,2026-03-14,North America,Scale,5,1572.94,cust_322
+1389,2026-09-25,North America,Growth,3,320.56,cust_366
+1390,2026-01-19,North America,Starter,3,87.31,cust_288
+1391,2026-01-04,North America,Scale,2,608.87,cust_53
+1392,2026-09-13,Europe,Scale,5,1497.99,cust_291
+1393,2026-08-07,Asia Pacific,Starter,2,58.07,cust_293
+1394,2026-09-27,Europe,Starter,2,60.04,cust_11
+1395,2026-01-16,North America,Growth,5,506.02,cust_219
+1396,2026-04-16,North America,Growth,5,537.69,cust_143
+1397,2026-05-05,North America,Growth,4,381.12,cust_191
+1398,2026-06-30,North America,Growth,1,95.57,cust_347
+1399,2026-02-17,Europe,Starter,2,54.18,cust_203
+1400,2026-09-14,North America,Growth,1,94.25,cust_159
+1401,2026-07-15,North America,Enterprise,1,821.87,cust_185
+1402,2026-10-03,Asia Pacific,Starter,3,91.81,cust_23
+1403,2026-09-19,North America,Enterprise,2,1899.38,cust_49
+1404,2026-08-23,North America,Enterprise,1,942.09,cust_293
+1405,2026-01-21,North America,Scale,5,1347.98,cust_120
+1406,2026-08-31,North America,Scale,2,562.41,cust_210
+1407,2026-02-16,North America,Starter,1,29.50,cust_275
+1408,2026-02-07,Europe,Scale,3,920.17,cust_188
+1409,2026-01-07,Europe,Starter,3,82.54,cust_104
+1410,2026-02-16,Asia Pacific,Starter,5,150.65,cust_377
+1411,2026-07-12,North America,Starter,2,58.51,cust_80
+1412,2026-06-15,North America,Starter,3,91.97,cust_101
+1413,2026-08-27,North America,Enterprise,1,916.04,cust_318
+1414,2026-09-19,North America,Starter,3,90.90,cust_58
+1415,2026-09-28,North America,Enterprise,1,920.88,cust_2
+1416,2026-05-13,Asia Pacific,Starter,3,90.70,cust_93
+1417,2026-04-14,North America,Scale,1,301.83,cust_273
+1418,2026-04-10,Europe,Scale,5,1410.34,cust_128
+1419,2026-04-08,Europe,Starter,3,94.91,cust_297
+1420,2026-01-07,North America,Starter,2,52.72,cust_203
+1421,2026-07-04,North America,Scale,2,588.06,cust_85
+1422,2026-07-30,North America,Starter,4,125.19,cust_330
+1423,2026-09-24,Asia Pacific,Starter,5,142.72,cust_12
+1424,2026-08-05,North America,Starter,5,155.94,cust_42
+1425,2026-07-23,Europe,Starter,3,90.74,cust_191
+1426,2026-07-12,Europe,Growth,4,374.66,cust_113
+1427,2026-07-07,North America,Enterprise,5,4732.50,cust_357
+1428,2026-09-09,North America,Starter,2,59.58,cust_141
+1429,2026-08-01,North America,Starter,2,62.57,cust_131
+1430,2026-09-12,North America,Growth,2,215.32,cust_266
+1431,2026-02-20,North America,Starter,3,92.67,cust_285
+1432,2026-05-12,North America,Starter,2,58.00,cust_312
+1433,2026-10-01,North America,Starter,4,107.69,cust_161
+1434,2026-09-12,North America,Enterprise,5,4905.12,cust_7
+1435,2026-09-25,North America,Starter,4,106.25,cust_200
+1436,2026-01-06,North America,Growth,3,307.34,cust_140
+1437,2026-01-07,Europe,Starter,2,52.99,cust_292
+1438,2026-09-03,North America,Enterprise,5,4212.76,cust_143
+1439,2026-06-22,North America,Starter,5,147.12,cust_76
+1440,2026-02-25,Europe,Enterprise,1,899.10,cust_215
+1441,2026-07-16,North America,Enterprise,5,4167.57,cust_93
+1442,2026-01-01,North America,Starter,1,27.54,cust_282
+1443,2026-01-07,North America,Starter,1,28.29,cust_155
+1444,2026-07-19,Europe,Growth,1,92.01,cust_324
+1445,2026-06-12,Latin America,Scale,1,289.50,cust_278
+1446,2026-07-29,North America,Starter,5,157.74,cust_233
+1447,2026-04-08,North America,Growth,1,94.12,cust_302
+1448,2026-03-18,North America,Growth,4,432.12,cust_199
+1449,2026-04-08,North America,Starter,3,91.06,cust_80
+1450,2026-09-24,North America,Starter,5,135.85,cust_235
+1451,2026-01-11,North America,Enterprise,2,1622.85,cust_219
+1452,2026-09-25,North America,Scale,5,1354.32,cust_378
+1453,2026-06-10,Europe,Growth,5,467.85,cust_130
+1454,2026-04-03,North America,Starter,4,126.65,cust_46
+1455,2026-06-16,North America,Starter,2,59.76,cust_244
+1456,2026-03-12,North America,Growth,3,268.23,cust_321
+1457,2026-03-11,North America,Growth,4,396.00,cust_297
+1458,2026-09-23,North America,Starter,3,93.24,cust_133
+1459,2026-02-13,North America,Scale,2,601.47,cust_281
+1460,2026-04-05,North America,Starter,2,57.72,cust_361
+1461,2026-08-08,North America,Growth,5,539.11,cust_25
+1462,2026-04-20,North America,Starter,5,138.82,cust_134
+1463,2026-09-22,North America,Enterprise,1,957.27,cust_365
+1464,2026-09-19,Asia Pacific,Starter,2,63.74,cust_239
+1465,2026-04-11,North America,Scale,3,838.44,cust_320
+1466,2026-06-18,Latin America,Growth,2,188.68,cust_200
+1467,2026-05-30,North America,Starter,2,59.78,cust_72
+1468,2026-02-12,North America,Growth,1,100.30,cust_50
+1469,2026-03-20,North America,Starter,3,89.30,cust_55
+1470,2026-02-20,North America,Starter,2,53.84,cust_9
+1471,2026-06-14,North America,Starter,5,138.01,cust_365
+1472,2026-02-03,North America,Starter,5,141.91,cust_34
+1473,2026-09-18,Asia Pacific,Growth,4,404.48,cust_180
+1474,2026-05-18,North America,Enterprise,1,937.58,cust_31
+1475,2026-02-06,North America,Growth,4,435.53,cust_64
+1476,2026-06-30,Asia Pacific,Growth,3,289.74,cust_250
+1477,2026-01-12,North America,Enterprise,4,3687.89,cust_326
+1478,2026-02-23,North America,Starter,5,156.30,cust_83
+1479,2026-07-11,North America,Starter,3,94.06,cust_231
+1480,2026-06-28,North America,Enterprise,3,2878.54,cust_157
+1481,2026-05-02,Europe,Growth,3,288.13,cust_237
+1482,2026-07-03,Europe,Enterprise,2,1792.26,cust_337
+1483,2026-05-07,North America,Growth,3,272.06,cust_184
+1484,2026-04-18,Europe,Growth,4,365.78,cust_49
+1485,2026-05-24,North America,Enterprise,2,1861.45,cust_284
+1486,2026-03-16,North America,Growth,1,99.56,cust_318
+1487,2026-03-26,Europe,Starter,1,27.85,cust_283
+1488,2026-04-12,Asia Pacific,Enterprise,2,1707.58,cust_335
+1489,2026-05-05,North America,Growth,5,536.80,cust_306
+1490,2026-07-15,North America,Scale,1,326.31,cust_323
+1491,2026-01-15,Latin America,Starter,4,109.75,cust_195
+1492,2026-01-28,Asia Pacific,Scale,2,606.79,cust_272
+1493,2026-06-10,Europe,Growth,3,312.82,cust_30
+1494,2026-05-26,North America,Enterprise,2,1692.93,cust_330
+1495,2026-07-31,North America,Starter,3,81.80,cust_110
+1496,2026-08-11,North America,Starter,4,106.64,cust_141
+1497,2026-09-08,Europe,Starter,3,90.17,cust_157
+1498,2026-06-04,Europe,Starter,1,29.01,cust_52
+1499,2026-03-15,North America,Scale,5,1399.68,cust_135
+1500,2026-08-07,North America,Enterprise,5,4425.16,cust_213
+1501,2026-09-22,Asia Pacific,Growth,3,290.14,cust_191
+1502,2026-08-07,Asia Pacific,Starter,4,113.63,cust_321
+1503,2026-01-12,North America,Starter,2,54.41,cust_205
+1504,2026-09-03,North America,Enterprise,2,1790.93,cust_372
+1505,2026-06-06,North America,Growth,2,189.48,cust_307
+1506,2026-07-03,Asia Pacific,Growth,5,489.13,cust_239
+1507,2026-08-15,Europe,Scale,4,1314.41,cust_244
+1508,2026-07-01,Asia Pacific,Starter,4,127.50,cust_161
+1509,2026-02-05,North America,Enterprise,5,4239.28,cust_376
+1510,2026-07-07,Europe,Growth,2,213.97,cust_191
+1511,2026-05-27,Europe,Scale,1,316.23,cust_263
+1512,2026-05-29,Asia Pacific,Growth,2,215.15,cust_349
+1513,2026-01-07,North America,Growth,3,274.67,cust_200
+1514,2026-03-02,Asia Pacific,Growth,3,321.92,cust_155
+1515,2026-06-11,North America,Scale,2,619.22,cust_170
+1516,2026-03-06,Europe,Starter,5,155.59,cust_4
+1517,2026-02-19,North America,Growth,3,296.94,cust_375
+1518,2026-03-23,North America,Scale,3,945.60,cust_247
+1519,2026-04-06,North America,Scale,1,274.40,cust_149
+1520,2026-07-03,North America,Starter,5,146.60,cust_344
+1521,2026-05-06,Europe,Growth,4,393.51,cust_201
+1522,2026-09-02,North America,Starter,5,132.72,cust_285
+1523,2026-06-07,Europe,Starter,2,60.13,cust_369
+1524,2026-03-23,Asia Pacific,Growth,5,519.58,cust_379
+1525,2026-02-26,North America,Growth,4,385.89,cust_225
+1526,2026-08-14,North America,Starter,2,53.63,cust_134
+1527,2026-04-30,North America,Growth,1,99.05,cust_343
+1528,2026-09-18,Europe,Growth,3,298.80,cust_170
+1529,2026-06-25,North America,Scale,1,319.52,cust_248
+1530,2026-05-10,Europe,Enterprise,5,4250.77,cust_51
+1531,2026-05-12,North America,Starter,2,53.96,cust_142
+1532,2026-03-19,North America,Starter,2,58.03,cust_250
+1533,2026-07-01,North America,Enterprise,2,1965.55,cust_327
+1534,2026-03-31,Asia Pacific,Starter,5,150.24,cust_353
+1535,2026-09-04,Asia Pacific,Scale,2,610.94,cust_36
+1536,2026-10-02,Asia Pacific,Growth,4,422.02,cust_110
+1537,2026-04-16,Europe,Enterprise,5,4299.85,cust_135
+1538,2026-03-10,Europe,Starter,2,52.25,cust_151
+1539,2026-07-17,North America,Scale,2,602.41,cust_182
+1540,2026-01-07,North America,Enterprise,1,961.29,cust_100
+1541,2026-06-29,North America,Starter,1,27.59,cust_280
+1542,2026-08-10,North America,Scale,2,593.71,cust_217
+1543,2026-09-01,Europe,Starter,4,122.32,cust_13
+1544,2026-01-15,North America,Starter,4,122.76,cust_35
+1545,2026-09-21,Asia Pacific,Enterprise,5,4433.83,cust_83
+1546,2026-09-16,Asia Pacific,Starter,1,26.29,cust_254
+1547,2026-08-26,North America,Enterprise,5,4219.62,cust_44
+1548,2026-01-17,North America,Starter,5,155.83,cust_56
+1549,2026-01-19,Europe,Starter,4,112.46,cust_111
+1550,2026-08-12,Latin America,Starter,3,95.03,cust_74
+1551,2026-04-16,North America,Starter,4,110.72,cust_362
+1552,2026-02-10,North America,Enterprise,3,2766.40,cust_39
+1553,2026-03-22,North America,Enterprise,1,981.66,cust_309
+1554,2026-03-05,Europe,Enterprise,2,1680.28,cust_159
+1555,2026-05-03,Asia Pacific,Scale,5,1412.60,cust_62
+1556,2026-04-23,North America,Starter,1,30.23,cust_233
+1557,2026-08-01,North America,Starter,1,30.81,cust_110
+1558,2026-01-03,North America,Starter,4,116.86,cust_70
+1559,2026-04-09,North America,Scale,4,1111.24,cust_194
+1560,2026-08-19,North America,Scale,1,322.40,cust_326
+1561,2026-03-17,North America,Starter,2,53.65,cust_231
+1562,2026-05-10,North America,Scale,2,622.91,cust_171
+1563,2026-01-23,North America,Scale,1,301.85,cust_328
+1564,2026-09-15,Latin America,Growth,2,210.72,cust_219
+1565,2026-05-08,Latin America,Enterprise,3,2599.27,cust_344
+1566,2026-07-10,North America,Enterprise,4,3260.39,cust_136
+1567,2026-09-29,North America,Starter,5,149.56,cust_336
+1568,2026-03-19,Europe,Starter,2,57.32,cust_123
+1569,2026-05-04,Asia Pacific,Starter,5,139.41,cust_52
+1570,2026-07-01,North America,Scale,5,1591.64,cust_252
+1571,2026-03-17,Europe,Enterprise,1,973.94,cust_279
+1572,2026-07-16,North America,Starter,2,52.66,cust_247
+1573,2026-06-25,Europe,Scale,2,561.97,cust_49
+1574,2026-01-31,North America,Growth,3,300.25,cust_10
+1575,2026-04-29,Europe,Enterprise,2,1648.34,cust_166
+1576,2026-05-23,Europe,Starter,2,52.33,cust_9
+1577,2026-03-25,North America,Enterprise,3,2669.53,cust_337
+1578,2026-09-14,North America,Scale,1,317.16,cust_238
+1579,2026-08-02,North America,Starter,5,132.89,cust_44
+1580,2026-08-01,North America,Starter,2,57.26,cust_328
+1581,2026-09-24,North America,Starter,1,31.61,cust_354
+1582,2026-10-07,North America,Starter,5,130.52,cust_208
+1583,2026-09-22,Asia Pacific,Enterprise,5,4302.52,cust_90
+1584,2026-02-21,Latin America,Starter,2,58.13,cust_148
+1585,2026-07-12,Asia Pacific,Starter,1,28.07,cust_42
+1586,2026-07-29,North America,Starter,2,58.33,cust_211
+1587,2026-06-12,North America,Growth,3,322.69,cust_136
+1588,2026-03-10,Europe,Starter,3,94.35,cust_25
+1589,2026-02-10,Europe,Growth,4,396.11,cust_259
+1590,2026-06-18,North America,Scale,3,926.73,cust_343
+1591,2026-08-02,North America,Scale,1,296.28,cust_354
+1592,2026-05-08,North America,Starter,4,120.81,cust_50
+1593,2026-07-25,Europe,Starter,1,29.75,cust_301
+1594,2026-06-03,North America,Enterprise,1,872.17,cust_42
+1595,2026-05-07,North America,Enterprise,4,3241.19,cust_98
+1596,2026-01-29,North America,Scale,5,1453.87,cust_87
+1597,2026-03-12,North America,Scale,3,927.21,cust_342
+1598,2026-01-30,Europe,Starter,3,80.06,cust_172
+1599,2026-09-28,Asia Pacific,Growth,3,325.97,cust_336
+1600,2026-09-05,North America,Enterprise,1,861.22,cust_326
+1601,2026-02-21,North America,Starter,5,147.53,cust_298
+1602,2026-03-21,North America,Growth,3,285.19,cust_154
+1603,2026-01-01,Latin America,Scale,2,599.71,cust_46
+1604,2026-03-29,Europe,Growth,2,200.17,cust_74
+1605,2026-03-17,North America,Starter,3,93.82,cust_135
+1606,2026-05-07,North America,Growth,4,363.96,cust_202
+1607,2026-07-03,North America,Starter,1,30.28,cust_218
+1608,2026-04-23,Asia Pacific,Enterprise,2,1708.27,cust_135
+1609,2026-09-27,North America,Starter,2,62.18,cust_70
+1610,2026-02-18,Europe,Starter,3,94.45,cust_274
+1611,2026-01-18,North America,Scale,3,907.35,cust_367
+1612,2026-09-19,Europe,Growth,4,430.72,cust_19
+1613,2026-08-04,Europe,Scale,2,611.25,cust_163
+1614,2026-09-29,North America,Enterprise,5,4221.40,cust_198
+1615,2026-09-19,Asia Pacific,Enterprise,5,4053.60,cust_279
+1616,2026-04-28,North America,Enterprise,1,814.09,cust_359
+1617,2026-05-31,Europe,Starter,5,138.17,cust_240
+1618,2026-04-21,North America,Scale,1,315.85,cust_367
+1619,2026-08-21,Europe,Enterprise,4,3277.21,cust_196
+1620,2026-05-22,North America,Starter,3,90.28,cust_118
+1621,2026-08-02,North America,Growth,1,95.85,cust_153
+1622,2026-03-19,Asia Pacific,Scale,4,1221.06,cust_150
+1623,2026-01-26,Asia Pacific,Starter,4,119.70,cust_49
+1624,2026-08-03,Europe,Starter,2,55.92,cust_161
+1625,2026-01-29,Asia Pacific,Enterprise,4,3713.02,cust_2
+1626,2026-03-19,North America,Starter,2,59.98,cust_177
+1627,2026-09-24,North America,Growth,3,301.25,cust_219
+1628,2026-08-18,Europe,Starter,1,30.19,cust_45
+1629,2026-03-30,Europe,Growth,2,205.90,cust_198
+1630,2026-05-02,North America,Enterprise,4,3376.09,cust_216
+1631,2026-02-04,North America,Growth,3,279.69,cust_281
+1632,2026-08-11,North America,Growth,5,467.16,cust_365
+1633,2026-02-01,Europe,Starter,3,89.68,cust_106
+1634,2026-05-26,Asia Pacific,Growth,4,404.32,cust_63
+1635,2026-04-10,Asia Pacific,Starter,1,28.85,cust_159
+1636,2026-04-03,North America,Enterprise,5,4507.98,cust_63
+1637,2026-02-08,North America,Enterprise,2,1932.80,cust_230
+1638,2026-01-07,North America,Scale,1,328.05,cust_342
+1639,2026-07-20,Europe,Starter,5,138.09,cust_3
+1640,2026-08-31,North America,Starter,2,60.96,cust_287
+1641,2026-04-02,North America,Growth,4,411.89,cust_298
+1642,2026-04-25,North America,Enterprise,1,915.89,cust_109
+1643,2026-06-17,North America,Enterprise,3,2929.84,cust_100
+1644,2026-07-28,North America,Starter,4,106.72,cust_160
+1645,2026-01-16,North America,Starter,2,52.72,cust_183
+1646,2026-10-06,North America,Scale,3,850.62,cust_12
+1647,2026-05-27,North America,Scale,3,938.67,cust_320
+1648,2026-06-16,Europe,Scale,1,296.28,cust_258
+1649,2026-02-12,Europe,Scale,5,1572.08,cust_165
+1650,2026-01-12,North America,Starter,1,31.74,cust_191
+1651,2026-09-30,North America,Starter,3,86.95,cust_288
+1652,2026-08-22,North America,Scale,2,627.09,cust_312
+1653,2026-07-10,North America,Growth,5,447.48,cust_132
+1654,2026-08-31,Latin America,Starter,4,120.20,cust_282
+1655,2026-09-29,Europe,Growth,3,314.13,cust_17
+1656,2026-04-07,North America,Growth,2,188.51,cust_293
+1657,2026-01-07,Europe,Starter,5,146.73,cust_28
+1658,2026-02-04,North America,Starter,3,92.79,cust_313
+1659,2026-01-08,North America,Starter,4,113.02,cust_177
+1660,2026-05-08,Europe,Enterprise,4,3883.92,cust_124
+1661,2026-03-12,Europe,Growth,1,103.83,cust_323
+1662,2026-02-24,North America,Starter,5,156.52,cust_224
+1663,2026-04-21,North America,Growth,1,101.60,cust_84
+1664,2026-05-24,North America,Scale,4,1286.45,cust_366
+1665,2026-06-19,North America,Starter,5,135.33,cust_351
+1666,2026-06-21,North America,Starter,5,143.64,cust_290
+1667,2026-03-10,Europe,Growth,4,381.88,cust_30
+1668,2026-05-15,Latin America,Enterprise,4,3483.96,cust_298
+1669,2026-07-08,Europe,Starter,2,61.62,cust_303
+1670,2026-07-01,North America,Growth,5,523.65,cust_133
+1671,2026-07-20,North America,Enterprise,5,4926.85,cust_309
+1672,2026-01-12,North America,Enterprise,5,4587.43,cust_86
+1673,2026-07-07,North America,Starter,4,104.50,cust_27
+1674,2026-01-24,Asia Pacific,Starter,2,53.36,cust_197
+1675,2026-05-09,North America,Starter,1,28.38,cust_129
+1676,2026-03-30,Asia Pacific,Starter,3,95.49,cust_19
+1677,2026-03-18,North America,Starter,1,31.81,cust_45
+1678,2026-09-23,North America,Enterprise,1,930.91,cust_107
+1679,2026-08-28,North America,Scale,3,925.58,cust_337
+1680,2026-08-29,North America,Starter,4,108.97,cust_150
+1681,2026-02-13,North America,Scale,1,320.29,cust_108
+1682,2026-07-14,Europe,Enterprise,4,3861.92,cust_169
+1683,2026-03-22,Europe,Growth,1,106.15,cust_63
+1684,2026-02-14,Asia Pacific,Growth,2,195.58,cust_357
+1685,2026-04-21,North America,Enterprise,2,1923.95,cust_244
+1686,2026-10-08,North America,Scale,2,573.37,cust_207
+1687,2026-05-04,North America,Growth,2,199.69,cust_373
+1688,2026-06-16,North America,Enterprise,5,4754.69,cust_42
+1689,2026-04-02,North America,Enterprise,4,3854.62,cust_98
+1690,2026-07-07,North America,Scale,5,1436.07,cust_291
+1691,2026-08-02,North America,Starter,4,110.46,cust_130
+1692,2026-02-18,North America,Enterprise,5,4231.25,cust_295
+1693,2026-06-25,North America,Enterprise,2,1719.04,cust_269
+1694,2026-04-16,North America,Growth,2,192.20,cust_373
+1695,2026-05-09,North America,Scale,1,324.21,cust_309
+1696,2026-01-02,North America,Starter,1,31.56,cust_364
+1697,2026-03-08,Latin America,Growth,1,91.57,cust_290
+1698,2026-05-19,Europe,Growth,2,201.80,cust_166
+1699,2026-07-01,North America,Starter,5,143.25,cust_328
+1700,2026-05-30,North America,Starter,3,87.43,cust_31
+1701,2026-09-13,North America,Growth,3,270.35,cust_194
+1702,2026-06-01,North America,Scale,2,653.10,cust_126
+1703,2026-05-24,North America,Enterprise,1,867.82,cust_326
+1704,2026-03-15,Europe,Starter,2,54.14,cust_263
+1705,2026-04-10,Europe,Starter,2,58.57,cust_81
+1706,2026-01-20,North America,Starter,4,124.34,cust_24
+1707,2026-01-29,North America,Starter,2,53.16,cust_191
+1708,2026-04-11,Europe,Enterprise,3,2946.49,cust_94
+1709,2026-02-23,Europe,Starter,5,145.57,cust_92
+1710,2026-03-17,North America,Growth,1,95.23,cust_374
+1711,2026-02-09,Asia Pacific,Scale,3,824.06,cust_209
+1712,2026-02-20,North America,Growth,1,92.71,cust_18
+1713,2026-06-27,North America,Scale,1,289.40,cust_322
+1714,2026-02-25,North America,Growth,4,400.18,cust_183
+1715,2026-01-11,Europe,Starter,5,132.04,cust_299
+1716,2026-04-07,North America,Scale,1,309.67,cust_173
+1717,2026-09-19,Europe,Enterprise,2,1741.26,cust_226
+1718,2026-01-25,North America,Enterprise,4,3741.08,cust_211
+1719,2026-03-10,Asia Pacific,Scale,2,576.36,cust_122
+1720,2026-10-07,North America,Starter,5,144.68,cust_183
+1721,2026-05-13,Europe,Growth,4,380.62,cust_221
+1722,2026-09-26,Europe,Starter,1,30.06,cust_229
+1723,2026-07-25,Europe,Starter,2,54.37,cust_230
+1724,2026-06-18,Europe,Enterprise,1,848.92,cust_147
+1725,2026-01-05,Latin America,Starter,2,58.18,cust_205
+1726,2026-08-04,Europe,Enterprise,5,4441.96,cust_4
+1727,2026-04-01,North America,Scale,1,286.48,cust_208
+1728,2026-09-07,North America,Starter,1,28.58,cust_70
+1729,2026-04-12,North America,Starter,1,27.22,cust_286
+1730,2026-05-03,Europe,Starter,4,107.53,cust_316
+1731,2026-01-18,North America,Starter,5,150.58,cust_118
+1732,2026-08-20,North America,Growth,2,196.39,cust_55
+1733,2026-09-20,Europe,Scale,3,966.25,cust_203
+1734,2026-04-08,North America,Enterprise,5,4108.55,cust_151
+1735,2026-02-13,Latin America,Enterprise,5,4388.60,cust_218
+1736,2026-05-07,North America,Enterprise,1,894.56,cust_170
+1737,2026-09-22,Europe,Scale,5,1446.95,cust_337
+1738,2026-08-14,Europe,Enterprise,2,1787.89,cust_308
+1739,2026-05-16,Europe,Starter,5,135.23,cust_208
+1740,2026-09-18,Asia Pacific,Starter,1,26.65,cust_74
+1741,2026-01-29,North America,Starter,5,152.65,cust_369
+1742,2026-07-15,Asia Pacific,Growth,2,192.92,cust_210
+1743,2026-01-16,North America,Scale,3,879.63,cust_247
+1744,2026-03-03,Asia Pacific,Scale,5,1465.92,cust_249
+1745,2026-04-23,North America,Starter,5,136.80,cust_167
+1746,2026-08-10,Europe,Growth,5,511.22,cust_87
+1747,2026-08-12,Europe,Starter,4,126.27,cust_83
+1748,2026-03-26,North America,Scale,5,1464.54,cust_233
+1749,2026-06-04,North America,Starter,4,121.12,cust_184
+1750,2026-04-13,Asia Pacific,Enterprise,2,1758.70,cust_121
+1751,2026-01-07,Europe,Scale,3,909.32,cust_110
+1752,2026-10-02,Latin America,Scale,5,1593.54,cust_121
+1753,2026-05-13,Europe,Starter,1,31.25,cust_290
+1754,2026-04-22,North America,Starter,2,61.14,cust_180
+1755,2026-07-28,Europe,Scale,3,823.24,cust_83
+1756,2026-03-18,Europe,Starter,3,84.16,cust_129
+1757,2026-10-07,North America,Enterprise,2,1708.52,cust_277
+1758,2026-07-26,North America,Starter,5,132.44,cust_365
+1759,2026-03-23,North America,Enterprise,4,3262.83,cust_247
+1760,2026-09-09,Asia Pacific,Scale,5,1361.02,cust_26
+1761,2026-05-24,North America,Enterprise,1,898.46,cust_223
+1762,2026-07-29,North America,Enterprise,5,4450.08,cust_354
+1763,2026-05-08,North America,Starter,3,83.17,cust_173
+1764,2026-03-11,North America,Growth,3,317.99,cust_323
+1765,2026-06-17,North America,Growth,2,190.20,cust_88
+1766,2026-01-09,North America,Growth,4,366.58,cust_184
+1767,2026-09-06,Europe,Starter,4,116.99,cust_12
+1768,2026-09-21,North America,Starter,1,30.46,cust_291
+1769,2026-09-12,North America,Scale,5,1369.89,cust_360
+1770,2026-01-13,North America,Enterprise,4,3936.27,cust_225
+1771,2026-02-14,North America,Starter,1,27.45,cust_48
+1772,2026-02-25,Asia Pacific,Starter,5,157.62,cust_94
+1773,2026-01-20,North America,Scale,5,1364.59,cust_191
+1774,2026-08-27,North America,Starter,1,28.58,cust_263
+1775,2026-03-24,North America,Enterprise,1,960.93,cust_186
+1776,2026-01-09,North America,Enterprise,4,3413.18,cust_7
+1777,2026-04-06,North America,Starter,4,108.39,cust_370
+1778,2026-07-01,North America,Enterprise,5,4746.05,cust_352
+1779,2026-01-10,North America,Enterprise,3,2941.72,cust_92
+1780,2026-04-10,North America,Starter,4,108.13,cust_234
+1781,2026-03-04,North America,Starter,2,62.22,cust_365
+1782,2026-05-05,North America,Scale,4,1202.97,cust_30
+1783,2026-08-23,North America,Growth,2,202.49,cust_295
+1784,2026-07-29,North America,Starter,3,79.06,cust_347
+1785,2026-05-24,Asia Pacific,Starter,1,30.49,cust_264
+1786,2026-02-05,North America,Scale,4,1163.56,cust_4
+1787,2026-09-20,North America,Starter,3,91.08,cust_100
+1788,2026-07-07,North America,Starter,2,58.94,cust_63
+1789,2026-05-31,Europe,Starter,4,111.63,cust_331
+1790,2026-09-23,North America,Enterprise,1,830.75,cust_126
+1791,2026-06-19,North America,Starter,1,28.56,cust_368
+1792,2026-02-20,Europe,Starter,2,60.89,cust_93
+1793,2026-07-08,Europe,Growth,3,283.12,cust_376
+1794,2026-06-13,Latin America,Enterprise,1,821.33,cust_209
+1795,2026-04-03,Europe,Starter,5,154.04,cust_318
+1796,2026-08-31,North America,Enterprise,5,4661.05,cust_151
+1797,2026-01-18,Europe,Enterprise,5,4404.25,cust_180
+1798,2026-07-04,Asia Pacific,Scale,5,1545.19,cust_297
+1799,2026-01-08,North America,Scale,4,1183.99,cust_56
+1800,2026-06-04,Asia Pacific,Starter,3,83.71,cust_273
+1801,2026-08-21,North America,Growth,3,268.98,cust_369
+1802,2026-08-27,Europe,Starter,2,52.72,cust_155
+1803,2026-02-03,Asia Pacific,Starter,5,148.72,cust_63
+1804,2026-01-23,Europe,Growth,2,210.35,cust_225
+1805,2026-05-03,North America,Starter,5,147.72,cust_354
+1806,2026-05-16,Latin America,Growth,1,96.08,cust_186
+1807,2026-06-05,Europe,Starter,3,88.05,cust_112
+1808,2026-02-02,North America,Enterprise,3,2582.96,cust_81
+1809,2026-07-20,North America,Scale,2,618.40,cust_89
+1810,2026-01-16,Europe,Starter,4,126.46,cust_375
+1811,2026-03-02,North America,Starter,5,150.35,cust_118
+1812,2026-04-12,North America,Starter,1,29.20,cust_299
+1813,2026-02-08,North America,Growth,4,381.57,cust_320
+1814,2026-08-22,Europe,Starter,2,56.59,cust_95
+1815,2026-07-21,North America,Starter,1,26.96,cust_33
+1816,2026-02-04,North America,Starter,4,112.49,cust_311
+1817,2026-02-13,Europe,Growth,1,89.40,cust_219
+1818,2026-03-09,Europe,Starter,3,84.65,cust_101
+1819,2026-03-12,Europe,Growth,5,482.09,cust_299
+1820,2026-08-22,North America,Growth,3,294.98,cust_133
+1821,2026-07-01,Europe,Starter,2,62.53,cust_174
+1822,2026-04-24,Europe,Enterprise,4,3544.83,cust_166
+1823,2026-03-07,Europe,Starter,5,138.60,cust_158
+1824,2026-05-09,Asia Pacific,Starter,5,131.79,cust_351
+1825,2026-02-28,North America,Growth,2,209.40,cust_21
+1826,2026-09-09,North America,Starter,4,121.92,cust_115
+1827,2026-07-15,Asia Pacific,Scale,2,568.62,cust_362
+1828,2026-09-04,North America,Starter,3,92.71,cust_73
+1829,2026-01-17,North America,Starter,5,149.22,cust_359
+1830,2026-07-14,Asia Pacific,Enterprise,3,2830.95,cust_222
+1831,2026-06-29,North America,Growth,4,391.46,cust_145
+1832,2026-03-12,North America,Growth,3,315.59,cust_109
+1833,2026-07-01,Latin America,Enterprise,3,2511.72,cust_177
+1834,2026-02-20,North America,Enterprise,4,3289.32,cust_235
+1835,2026-09-04,North America,Starter,2,61.48,cust_215
+1836,2026-07-23,North America,Scale,4,1235.09,cust_218
+1837,2026-04-02,Europe,Starter,5,159.18,cust_282
+1838,2026-04-14,North America,Scale,1,310.82,cust_230
+1839,2026-07-04,North America,Enterprise,1,986.10,cust_273
+1840,2026-10-03,Europe,Scale,1,309.59,cust_10
+1841,2026-01-31,North America,Starter,3,78.82,cust_165
+1842,2026-06-07,Europe,Growth,5,474.22,cust_278
+1843,2026-02-08,Asia Pacific,Scale,3,896.56,cust_290
+1844,2026-06-13,North America,Starter,2,63.67,cust_374
+1845,2026-06-27,North America,Starter,1,30.44,cust_36
+1846,2026-08-07,North America,Starter,5,151.59,cust_28
+1847,2026-09-30,North America,Scale,3,972.09,cust_79
+1848,2026-02-15,North America,Starter,2,53.11,cust_52
+1849,2026-06-07,North America,Starter,3,81.22,cust_321
+1850,2026-07-06,North America,Enterprise,4,3777.95,cust_137
+1851,2026-02-26,Europe,Growth,4,372.39,cust_185
+1852,2026-04-22,North America,Starter,2,58.97,cust_247
+1853,2026-07-14,North America,Starter,2,55.83,cust_357
+1854,2026-05-06,North America,Starter,1,26.65,cust_20
+1855,2026-04-25,North America,Scale,1,291.21,cust_127
+1856,2026-01-27,North America,Starter,1,26.95,cust_187
+1857,2026-09-12,North America,Growth,1,96.54,cust_37
+1858,2026-06-28,North America,Growth,4,365.37,cust_350
+1859,2026-03-08,Asia Pacific,Starter,4,110.40,cust_15
+1860,2026-03-03,North America,Scale,2,564.82,cust_117
+1861,2026-01-26,North America,Starter,2,60.54,cust_251
+1862,2026-09-25,Asia Pacific,Scale,2,619.04,cust_178
+1863,2026-01-27,North America,Growth,1,102.30,cust_208
+1864,2026-04-04,North America,Starter,1,27.73,cust_190
+1865,2026-01-16,North America,Enterprise,4,3823.59,cust_250
+1866,2026-01-16,North America,Enterprise,1,874.73,cust_334
+1867,2026-06-29,Asia Pacific,Scale,3,913.68,cust_67
+1868,2026-03-21,North America,Starter,5,146.31,cust_278
+1869,2026-08-16,North America,Growth,1,93.80,cust_161
+1870,2026-09-12,North America,Starter,5,136.93,cust_342
+1871,2026-04-16,North America,Starter,5,154.71,cust_181
+1872,2026-08-11,Europe,Growth,1,91.55,cust_353
+1873,2026-06-18,North America,Growth,4,367.88,cust_169
+1874,2026-07-01,Europe,Starter,1,31.46,cust_364
+1875,2026-10-01,North America,Scale,1,275.27,cust_112
+1876,2026-06-16,North America,Scale,4,1280.84,cust_306
+1877,2026-09-16,North America,Enterprise,4,3741.94,cust_70
+1878,2026-01-14,North America,Scale,4,1083.27,cust_185
+1879,2026-07-31,Europe,Enterprise,1,918.72,cust_193
+1880,2026-01-01,Europe,Starter,3,91.90,cust_261
+1881,2026-10-06,Europe,Scale,4,1133.55,cust_125
+1882,2026-07-16,North America,Growth,5,453.08,cust_105
+1883,2026-03-27,North America,Starter,3,82.87,cust_73
+1884,2026-01-18,Europe,Scale,1,285.38,cust_198
+1885,2026-01-13,North America,Enterprise,2,1768.96,cust_203
+1886,2026-08-08,Europe,Growth,5,449.42,cust_370
+1887,2026-01-27,North America,Scale,2,559.17,cust_132
+1888,2026-06-11,North America,Starter,2,56.03,cust_185
+1889,2026-07-06,North America,Scale,3,838.61,cust_58
+1890,2026-04-19,North America,Enterprise,1,932.10,cust_44
+1891,2026-03-30,North America,Growth,1,95.07,cust_313
+1892,2026-06-17,Asia Pacific,Starter,2,55.22,cust_193
+1893,2026-08-22,Europe,Starter,1,26.22,cust_73
+1894,2026-06-01,Europe,Starter,2,56.11,cust_330
+1895,2026-01-05,North America,Growth,4,422.98,cust_207
+1896,2026-01-21,North America,Growth,2,203.65,cust_54
+1897,2026-03-20,Asia Pacific,Growth,2,210.65,cust_365
+1898,2026-04-21,North America,Starter,1,28.43,cust_183
+1899,2026-02-05,North America,Scale,5,1548.22,cust_58
+1900,2026-02-08,North America,Starter,4,110.34,cust_111
+1901,2026-08-03,North America,Starter,4,117.44,cust_146
+1902,2026-02-27,North America,Enterprise,2,1693.48,cust_223
+1903,2026-07-05,Asia Pacific,Starter,1,26.32,cust_241
+1904,2026-04-17,North America,Starter,2,55.34,cust_271
+1905,2026-04-14,North America,Starter,2,57.02,cust_224
+1906,2026-03-08,North America,Starter,3,83.70,cust_315
+1907,2026-09-29,Europe,Enterprise,4,3750.15,cust_120
+1908,2026-08-19,Europe,Growth,5,519.24,cust_201
+1909,2026-01-16,Europe,Enterprise,3,2847.73,cust_21
+1910,2026-08-17,Latin America,Starter,4,122.80,cust_168
+1911,2026-02-08,Europe,Growth,2,197.60,cust_322
+1912,2026-02-02,Latin America,Starter,4,105.18,cust_364
+1913,2026-06-25,North America,Growth,1,106.18,cust_207
+1914,2026-03-02,Latin America,Starter,4,124.57,cust_289
+1915,2026-07-25,Europe,Growth,3,283.44,cust_149
+1916,2026-04-28,North America,Starter,2,59.39,cust_23
+1917,2026-07-03,North America,Growth,4,364.60,cust_211
+1918,2026-02-17,North America,Starter,1,30.75,cust_127
+1919,2026-03-25,Latin America,Starter,1,29.66,cust_167
+1920,2026-01-14,Asia Pacific,Starter,3,85.85,cust_342
+1921,2026-07-09,North America,Growth,3,313.51,cust_312
+1922,2026-01-07,Europe,Growth,4,378.41,cust_261
+1923,2026-04-11,Latin America,Starter,3,79.65,cust_174
+1924,2026-06-06,Asia Pacific,Scale,1,301.00,cust_50
+1925,2026-01-11,North America,Scale,2,578.05,cust_367
+1926,2026-09-30,North America,Growth,2,183.25,cust_352
+1927,2026-06-24,North America,Scale,5,1579.31,cust_153
+1928,2026-05-06,Europe,Starter,5,142.44,cust_105
+1929,2026-01-16,Europe,Scale,5,1619.30,cust_294
+1930,2026-03-10,North America,Starter,5,143.88,cust_305
+1931,2026-06-16,North America,Growth,1,93.19,cust_46
+1932,2026-06-26,Europe,Enterprise,2,1793.77,cust_372
+1933,2026-03-01,North America,Starter,2,55.07,cust_202
+1934,2026-01-20,North America,Enterprise,5,4365.22,cust_178
+1935,2026-05-25,Asia Pacific,Enterprise,3,2499.10,cust_59
+1936,2026-05-30,North America,Growth,3,286.60,cust_186
+1937,2026-08-06,North America,Starter,2,58.48,cust_86
+1938,2026-09-15,North America,Starter,1,30.05,cust_7
+1939,2026-01-05,North America,Enterprise,2,1815.89,cust_130
+1940,2026-09-08,North America,Starter,4,118.82,cust_371
+1941,2026-05-01,North America,Growth,1,103.35,cust_134
+1942,2026-02-25,North America,Growth,2,208.18,cust_218
+1943,2026-01-23,North America,Starter,3,88.95,cust_63
+1944,2026-02-11,Asia Pacific,Enterprise,3,2521.75,cust_259
+1945,2026-02-17,North America,Starter,3,94.12,cust_73
+1946,2026-06-11,North America,Growth,2,180.81,cust_51
+1947,2026-01-22,North America,Scale,5,1587.76,cust_219
+1948,2026-06-18,North America,Enterprise,4,3851.58,cust_248
+1949,2026-03-08,North America,Starter,5,145.06,cust_338
+1950,2026-05-29,North America,Scale,5,1588.24,cust_121
+1951,2026-06-13,North America,Scale,2,557.98,cust_154
+1952,2026-06-23,North America,Starter,5,132.31,cust_148
+1953,2026-03-19,North America,Scale,5,1406.97,cust_287
+1954,2026-07-17,North America,Enterprise,5,4572.57,cust_209
+1955,2026-08-10,North America,Growth,1,96.19,cust_289
+1956,2026-09-24,North America,Starter,5,147.10,cust_337
+1957,2026-08-27,North America,Starter,5,149.56,cust_293
+1958,2026-01-26,Europe,Growth,2,194.96,cust_55
+1959,2026-06-13,North America,Enterprise,4,3394.88,cust_85
+1960,2026-03-06,Latin America,Starter,5,142.35,cust_316
+1961,2026-02-28,North America,Starter,5,157.07,cust_72
+1962,2026-08-28,North America,Growth,3,313.94,cust_259
+1963,2026-04-08,Europe,Starter,2,61.45,cust_157
+1964,2026-04-09,North America,Scale,3,923.65,cust_85
+1965,2026-05-07,North America,Growth,5,490.74,cust_56
+1966,2026-08-07,North America,Enterprise,3,2822.62,cust_352
+1967,2026-08-21,North America,Growth,2,204.31,cust_245
+1968,2026-07-22,North America,Enterprise,2,1628.38,cust_364
+1969,2026-07-04,Europe,Starter,4,113.30,cust_265
+1970,2026-04-18,North America,Starter,5,141.55,cust_39
+1971,2026-04-02,Europe,Scale,5,1559.96,cust_175
+1972,2026-06-26,Europe,Growth,3,292.46,cust_4
+1973,2026-06-26,Europe,Growth,4,399.85,cust_58
+1974,2026-02-18,Europe,Starter,2,60.74,cust_253
+1975,2026-05-19,North America,Growth,3,299.69,cust_113
+1976,2026-05-28,Europe,Scale,4,1086.19,cust_91
+1977,2026-08-08,Europe,Growth,4,375.06,cust_364
+1978,2026-06-11,North America,Enterprise,4,3597.21,cust_167
+1979,2026-03-17,North America,Starter,3,86.30,cust_157
+1980,2026-05-24,Europe,Enterprise,5,4931.33,cust_355
+1981,2026-05-25,Europe,Growth,4,360.46,cust_368
+1982,2026-06-02,North America,Growth,1,103.65,cust_45
+1983,2026-08-20,Europe,Starter,5,158.22,cust_253
+1984,2026-04-17,Europe,Scale,5,1527.83,cust_300
+1985,2026-06-08,Asia Pacific,Starter,2,60.53,cust_272
+1986,2026-10-07,North America,Growth,2,183.08,cust_276
+1987,2026-08-24,Asia Pacific,Starter,5,157.96,cust_325
+1988,2026-07-22,North America,Starter,1,31.18,cust_62
+1989,2026-06-11,Europe,Enterprise,2,1806.32,cust_123
+1990,2026-10-07,North America,Starter,4,123.69,cust_361
+1991,2026-06-07,North America,Starter,4,119.05,cust_259
+1992,2026-01-12,North America,Starter,5,137.05,cust_105
+1993,2026-06-15,North America,Starter,3,94.24,cust_224
+1994,2026-03-09,North America,Scale,2,568.56,cust_103
+1995,2026-07-14,North America,Enterprise,4,3398.79,cust_283
+1996,2026-07-07,North America,Growth,5,494.01,cust_281
+1997,2026-06-30,Asia Pacific,Starter,5,151.92,cust_201
+1998,2026-01-08,North America,Enterprise,4,3468.24,cust_35
+1999,2026-07-29,North America,Scale,4,1230.78,cust_273
+2000,2026-04-29,North America,Starter,1,29.99,cust_183
+2001,2026-08-07,Europe,Starter,5,154.79,cust_375
+2002,2026-04-04,Europe,Growth,1,102.50,cust_285
+2003,2026-04-24,Latin America,Starter,5,151.10,cust_199
+2004,2026-07-23,North America,Starter,2,62.34,cust_197
+2005,2026-07-02,North America,Scale,1,317.02,cust_300
+2006,2026-03-18,North America,Scale,2,637.48,cust_110
+2007,2026-08-17,Europe,Starter,1,31.27,cust_308
+2008,2026-08-13,North America,Starter,2,57.73,cust_20
+2009,2026-01-21,Europe,Enterprise,4,3428.15,cust_367
+2010,2026-01-01,North America,Enterprise,3,2894.27,cust_29
+2011,2026-04-09,Asia Pacific,Starter,5,156.12,cust_364
+2012,2026-04-08,Europe,Enterprise,3,2538.28,cust_82
+2013,2026-07-17,Latin America,Starter,3,89.42,cust_9
+2014,2026-07-06,North America,Scale,2,635.65,cust_80
+2015,2026-02-01,North America,Starter,2,55.81,cust_302
+2016,2026-06-04,Asia Pacific,Starter,4,117.82,cust_234
+2017,2026-01-18,North America,Growth,2,206.73,cust_58
+2018,2026-08-01,Asia Pacific,Enterprise,2,1635.62,cust_329
+2019,2026-10-08,Europe,Growth,4,376.15,cust_215
+2020,2026-09-15,Europe,Starter,5,155.10,cust_227
+2021,2026-04-22,North America,Enterprise,5,4923.60,cust_142
+2022,2026-10-05,Europe,Starter,2,54.47,cust_211
+2023,2026-04-20,North America,Enterprise,4,3811.74,cust_276
+2024,2026-05-15,Latin America,Starter,5,140.01,cust_214
+2025,2026-02-19,North America,Scale,4,1262.11,cust_270
+2026,2026-03-01,North America,Starter,2,58.68,cust_350
+2027,2026-06-16,North America,Growth,1,90.95,cust_100
+2028,2026-01-26,North America,Scale,5,1443.12,cust_128
+2029,2026-07-06,Europe,Growth,3,285.59,cust_180
+2030,2026-01-16,Europe,Starter,3,95.31,cust_265
+2031,2026-09-24,North America,Starter,5,154.23,cust_344
+2032,2026-07-22,North America,Growth,2,183.04,cust_26
+2033,2026-02-07,North America,Enterprise,4,3669.17,cust_180
+2034,2026-01-10,Asia Pacific,Starter,2,59.10,cust_68
+2035,2026-05-15,North America,Enterprise,3,2631.64,cust_126
+2036,2026-02-24,Europe,Growth,1,89.33,cust_376
+2037,2026-07-21,North America,Starter,2,57.85,cust_122
+2038,2026-01-21,North America,Growth,2,184.74,cust_72
+2039,2026-01-12,North America,Starter,4,117.39,cust_168
+2040,2026-01-28,Asia Pacific,Enterprise,2,1716.55,cust_156
+2041,2026-08-19,North America,Growth,1,105.50,cust_78
+2042,2026-01-12,Asia Pacific,Growth,5,491.98,cust_345
+2043,2026-01-17,North America,Scale,1,291.42,cust_326
+2044,2026-03-03,North America,Enterprise,1,857.27,cust_296
+2045,2026-06-09,North America,Growth,4,357.70,cust_204
+2046,2026-04-27,Europe,Enterprise,5,4847.15,cust_379
+2047,2026-06-19,North America,Growth,3,278.25,cust_179
+2048,2026-02-13,North America,Growth,1,106.56,cust_372
+2049,2026-06-14,North America,Starter,3,89.42,cust_24
+2050,2026-05-24,Asia Pacific,Scale,4,1300.02,cust_221
+2051,2026-08-17,North America,Scale,5,1483.60,cust_339
+2052,2026-04-20,North America,Scale,3,967.35,cust_17
+2053,2026-04-30,North America,Starter,5,131.34,cust_341
+2054,2026-05-22,Europe,Starter,1,26.41,cust_19
+2055,2026-05-15,Europe,Starter,4,115.12,cust_249
+2056,2026-05-01,North America,Starter,2,56.55,cust_295
+2057,2026-04-09,Europe,Growth,5,531.85,cust_265
+2058,2026-01-12,Asia Pacific,Growth,1,95.88,cust_188
+2059,2026-07-14,Asia Pacific,Starter,5,147.87,cust_164
+2060,2026-08-04,North America,Enterprise,4,3932.99,cust_77
+2061,2026-07-11,North America,Enterprise,4,3578.95,cust_223
+2062,2026-07-04,North America,Starter,5,146.59,cust_141
+2063,2026-06-26,North America,Enterprise,3,2956.90,cust_341
+2064,2026-02-07,North America,Enterprise,2,1736.75,cust_290
+2065,2026-05-21,North America,Growth,5,464.28,cust_221
+2066,2026-10-04,Europe,Growth,3,277.79,cust_126
+2067,2026-09-21,Europe,Growth,3,300.95,cust_291
+2068,2026-05-24,Europe,Growth,3,289.52,cust_90
+2069,2026-03-23,Europe,Starter,5,138.44,cust_283
+2070,2026-05-14,North America,Starter,3,94.55,cust_263
+2071,2026-02-21,Europe,Enterprise,5,4289.13,cust_279
+2072,2026-01-01,Europe,Starter,2,61.19,cust_202
+2073,2026-04-04,Europe,Enterprise,2,1946.33,cust_181
+2074,2026-07-31,North America,Starter,4,105.88,cust_45
+2075,2026-06-10,North America,Starter,1,31.31,cust_329
+2076,2026-06-18,Europe,Growth,5,516.21,cust_125
+2077,2026-05-24,Europe,Starter,1,31.79,cust_43
+2078,2026-03-10,North America,Starter,4,111.46,cust_172
+2079,2026-10-04,North America,Starter,2,57.80,cust_32
+2080,2026-07-07,Asia Pacific,Starter,3,92.84,cust_89
+2081,2026-07-16,Europe,Growth,2,213.82,cust_201
+2082,2026-07-01,Europe,Scale,1,315.37,cust_289
+2083,2026-08-19,North America,Growth,3,290.29,cust_142
+2084,2026-01-17,Europe,Growth,4,417.02,cust_68
+2085,2026-09-13,Latin America,Starter,1,26.49,cust_158
+2086,2026-03-05,Europe,Growth,1,92.71,cust_242
+2087,2026-09-04,Europe,Starter,4,119.93,cust_55
+2088,2026-04-21,Asia Pacific,Starter,1,26.87,cust_336
+2089,2026-08-04,North America,Starter,4,104.87,cust_291
+2090,2026-07-01,Europe,Growth,3,281.19,cust_356
+2091,2026-01-09,North America,Enterprise,5,4144.66,cust_13
+2092,2026-09-05,Europe,Starter,5,153.90,cust_194
+2093,2026-02-06,Europe,Starter,5,138.20,cust_376
+2094,2026-08-17,North America,Starter,1,30.07,cust_367
+2095,2026-07-23,Latin America,Growth,4,374.61,cust_60
+2096,2026-05-16,North America,Enterprise,5,4665.55,cust_142
+2097,2026-06-20,North America,Starter,4,109.16,cust_276
+2098,2026-10-06,North America,Enterprise,3,2757.13,cust_346
+2099,2026-03-15,Europe,Enterprise,1,840.09,cust_178
+2100,2026-07-23,Latin America,Growth,4,360.15,cust_372
+2101,2026-03-03,North America,Growth,1,100.44,cust_344
+2102,2026-04-26,North America,Starter,1,27.75,cust_278
+2103,2026-03-15,North America,Starter,4,127.13,cust_56
+2104,2026-03-27,Asia Pacific,Scale,1,326.51,cust_96
+2105,2026-03-29,North America,Enterprise,1,956.28,cust_187
+2106,2026-03-26,North America,Scale,2,584.09,cust_62
+2107,2026-06-07,North America,Starter,5,152.99,cust_74
+2108,2026-01-20,North America,Starter,3,84.52,cust_157
+2109,2026-04-05,North America,Growth,3,286.28,cust_312
+2110,2026-03-26,Latin America,Growth,2,178.44,cust_221
+2111,2026-09-20,North America,Scale,3,852.11,cust_14
+2112,2026-02-08,Latin America,Growth,3,291.50,cust_197
+2113,2026-05-13,North America,Scale,3,963.09,cust_314
+2114,2026-06-22,Europe,Growth,5,527.35,cust_371
+2115,2026-01-18,North America,Starter,2,61.43,cust_134
+2116,2026-01-30,Latin America,Scale,3,846.45,cust_29
+2117,2026-05-28,North America,Enterprise,3,2488.89,cust_6
+2118,2026-10-03,North America,Starter,5,157.80,cust_117
+2119,2026-05-12,North America,Growth,1,100.12,cust_18
+2120,2026-04-03,Asia Pacific,Growth,5,523.98,cust_359
+2121,2026-05-18,North America,Starter,4,112.52,cust_137
+2122,2026-02-27,North America,Starter,3,83.13,cust_374
+2123,2026-05-20,Europe,Starter,5,145.65,cust_222
+2124,2026-06-27,North America,Starter,1,29.54,cust_1
+2125,2026-10-02,North America,Scale,4,1265.70,cust_292
+2126,2026-02-18,North America,Enterprise,1,938.30,cust_68
+2127,2026-03-16,North America,Starter,1,31.33,cust_301
+2128,2026-05-02,North America,Starter,3,90.76,cust_73
+2129,2026-04-03,North America,Growth,2,213.52,cust_305
+2130,2026-04-29,North America,Scale,4,1223.00,cust_107
+2131,2026-08-29,North America,Starter,2,52.83,cust_344
+2132,2026-01-14,North America,Growth,5,447.03,cust_312
+2133,2026-05-16,North America,Starter,4,123.74,cust_192
+2134,2026-01-19,North America,Growth,1,105.16,cust_10
+2135,2026-06-22,North America,Enterprise,4,3529.20,cust_283
+2136,2026-04-24,Asia Pacific,Scale,1,302.25,cust_4
+2137,2026-03-26,North America,Starter,4,104.95,cust_276
+2138,2026-04-23,Europe,Starter,4,107.40,cust_97
+2139,2026-05-15,North America,Starter,2,54.31,cust_11
+2140,2026-05-06,Asia Pacific,Growth,2,217.28,cust_265
+2141,2026-09-15,Europe,Starter,5,157.11,cust_52
+2142,2026-02-09,Latin America,Starter,2,53.46,cust_80
+2143,2026-06-21,North America,Starter,5,154.58,cust_295
+2144,2026-04-05,North America,Starter,2,52.50,cust_357
+2145,2026-06-20,North America,Growth,4,428.50,cust_371
+2146,2026-04-07,Europe,Scale,1,288.98,cust_104
+2147,2026-04-14,Asia Pacific,Enterprise,4,3928.38,cust_107
+2148,2026-07-18,Europe,Scale,2,552.88,cust_53
+2149,2026-02-19,Europe,Starter,2,63.69,cust_77
+2150,2026-07-20,North America,Scale,4,1125.95,cust_338
+2151,2026-01-25,Europe,Enterprise,5,4387.97,cust_70
+2152,2026-01-23,North America,Enterprise,2,1855.71,cust_170
+2153,2026-01-31,North America,Growth,1,97.84,cust_331
+2154,2026-06-21,North America,Enterprise,3,2565.44,cust_242
+2155,2026-08-07,North America,Enterprise,1,974.97,cust_360
+2156,2026-01-31,Europe,Starter,5,145.53,cust_60
+2157,2026-04-13,North America,Scale,5,1506.10,cust_251
+2158,2026-09-10,North America,Starter,3,92.55,cust_48
+2159,2026-03-23,Europe,Scale,5,1439.51,cust_141
+2160,2026-04-12,North America,Starter,3,83.73,cust_178
+2161,2026-01-24,North America,Growth,1,98.68,cust_182
+2162,2026-10-01,North America,Growth,3,310.29,cust_173
+2163,2026-05-27,North America,Scale,2,610.10,cust_298
+2164,2026-05-16,North America,Enterprise,5,4450.75,cust_354
+2165,2026-03-04,North America,Starter,3,87.15,cust_307
+2166,2026-07-29,North America,Enterprise,3,2863.20,cust_148
+2167,2026-07-24,North America,Starter,1,28.76,cust_301
+2168,2026-01-07,North America,Enterprise,3,2842.68,cust_201
+2169,2026-03-29,North America,Scale,5,1525.91,cust_119
+2170,2026-09-24,Latin America,Starter,3,81.77,cust_367
+2171,2026-03-13,Latin America,Starter,2,60.63,cust_376
+2172,2026-02-03,North America,Growth,3,309.82,cust_19
+2173,2026-07-09,North America,Starter,5,148.63,cust_178
+2174,2026-03-10,North America,Enterprise,3,2659.82,cust_197
+2175,2026-03-23,North America,Scale,4,1083.87,cust_227
+2176,2026-03-11,North America,Scale,1,271.09,cust_92
+2177,2026-07-21,Europe,Enterprise,3,2920.35,cust_337
+2178,2026-02-21,North America,Starter,3,93.46,cust_154
+2179,2026-02-18,Europe,Starter,1,29.51,cust_228
+2180,2026-07-29,North America,Enterprise,2,1919.88,cust_23
+2181,2026-02-28,North America,Enterprise,5,4425.00,cust_341
+2182,2026-03-24,Europe,Enterprise,5,4190.36,cust_143
+2183,2026-09-07,North America,Scale,1,308.90,cust_8
+2184,2026-08-22,North America,Starter,1,29.41,cust_186
+2185,2026-04-18,North America,Starter,4,120.98,cust_227
+2186,2026-02-20,North America,Starter,2,60.01,cust_160
+2187,2026-04-14,North America,Growth,4,377.41,cust_363
+2188,2026-10-01,Asia Pacific,Growth,1,95.70,cust_217
+2189,2026-08-28,North America,Scale,3,981.84,cust_6
+2190,2026-03-17,North America,Growth,5,451.20,cust_321
+2191,2026-07-01,Europe,Enterprise,2,1748.92,cust_340
+2192,2026-04-02,North America,Scale,5,1370.52,cust_333
+2193,2026-07-19,North America,Growth,3,288.44,cust_206
+2194,2026-07-22,Europe,Enterprise,2,1898.37,cust_113
+2195,2026-07-18,North America,Scale,5,1490.44,cust_196
+2196,2026-07-10,North America,Scale,4,1236.70,cust_26
+2197,2026-05-17,North America,Scale,5,1515.43,cust_10
+2198,2026-08-18,North America,Enterprise,1,926.26,cust_147
+2199,2026-01-21,North America,Starter,5,130.98,cust_123
+2200,2026-03-04,Europe,Enterprise,2,1795.11,cust_315
+2201,2026-05-31,Asia Pacific,Starter,2,63.32,cust_348
+2202,2026-01-13,North America,Growth,1,106.64,cust_236
+2203,2026-03-03,Europe,Starter,2,56.85,cust_102
+2204,2026-01-21,Asia Pacific,Scale,3,957.18,cust_113
+2205,2026-06-28,North America,Enterprise,4,3716.05,cust_164
+2206,2026-01-07,North America,Growth,2,180.22,cust_155
+2207,2026-03-10,Asia Pacific,Growth,2,202.18,cust_204
+2208,2026-02-06,North America,Scale,5,1558.77,cust_96
+2209,2026-02-16,North America,Growth,5,492.62,cust_325
+2210,2026-08-01,Europe,Growth,4,397.15,cust_143
+2211,2026-02-12,Europe,Scale,4,1186.08,cust_239
+2212,2026-08-11,North America,Starter,1,30.79,cust_169
+2213,2026-01-28,Europe,Growth,5,448.59,cust_84
+2214,2026-03-23,Asia Pacific,Starter,3,81.47,cust_269
+2215,2026-06-14,North America,Enterprise,4,3572.85,cust_107
+2216,2026-09-03,Europe,Scale,2,640.15,cust_52
+2217,2026-03-19,North America,Enterprise,5,4212.85,cust_300
+2218,2026-01-22,North America,Enterprise,1,842.19,cust_37
+2219,2026-02-23,Europe,Starter,2,56.60,cust_111
+2220,2026-04-12,Asia Pacific,Starter,4,107.42,cust_183
+2221,2026-06-08,North America,Starter,1,30.35,cust_292
+2222,2026-08-22,North America,Scale,4,1252.01,cust_261
+2223,2026-09-03,North America,Starter,2,55.12,cust_128
+2224,2026-06-23,North America,Growth,3,267.55,cust_44
+2225,2026-07-09,North America,Growth,5,544.01,cust_312
+2226,2026-07-06,North America,Enterprise,1,949.87,cust_316
+2227,2026-07-27,North America,Starter,1,29.02,cust_178
+2228,2026-09-25,North America,Growth,1,92.52,cust_10
+2229,2026-07-15,North America,Growth,4,404.28,cust_21
+2230,2026-05-21,North America,Enterprise,3,2750.52,cust_213
+2231,2026-07-25,North America,Starter,1,27.37,cust_171
+2232,2026-02-06,Europe,Enterprise,3,2608.84,cust_202
+2233,2026-06-07,North America,Starter,5,149.40,cust_33
+2234,2026-01-24,North America,Starter,2,52.21,cust_215
+2235,2026-03-08,North America,Starter,1,28.71,cust_375
+2236,2026-08-31,North America,Scale,5,1534.89,cust_138
+2237,2026-03-19,Asia Pacific,Starter,5,158.44,cust_184
+2238,2026-02-28,Asia Pacific,Enterprise,1,847.67,cust_303
+2239,2026-07-14,North America,Enterprise,3,2509.41,cust_359
+2240,2026-07-31,North America,Scale,2,647.58,cust_101
+2241,2026-02-08,Europe,Growth,4,402.30,cust_290
+2242,2026-06-10,Europe,Scale,4,1110.70,cust_97
+2243,2026-05-20,Asia Pacific,Growth,2,203.16,cust_69
+2244,2026-04-08,Europe,Scale,4,1180.05,cust_173
+2245,2026-03-03,Latin America,Scale,3,817.74,cust_376
+2246,2026-04-21,North America,Growth,5,466.45,cust_239
+2247,2026-01-14,North America,Growth,4,382.40,cust_262
+2248,2026-04-05,North America,Starter,1,29.04,cust_355
+2249,2026-02-04,North America,Growth,5,513.53,cust_347
+2250,2026-07-01,North America,Scale,4,1099.54,cust_208
+2251,2026-02-12,North America,Starter,3,79.31,cust_351
+2252,2026-06-19,Asia Pacific,Scale,2,608.04,cust_326
+2253,2026-04-17,Europe,Scale,4,1307.94,cust_229
+2254,2026-07-26,North America,Starter,5,141.82,cust_350
+2255,2026-04-22,Europe,Starter,3,91.91,cust_104
+2256,2026-02-25,North America,Starter,3,82.20,cust_192
+2257,2026-06-21,North America,Scale,4,1276.01,cust_31
+2258,2026-06-13,North America,Enterprise,3,2894.40,cust_333
+2259,2026-07-03,Europe,Enterprise,3,2435.34,cust_149
+2260,2026-02-22,North America,Starter,1,28.47,cust_375
+2261,2026-06-03,North America,Enterprise,1,812.78,cust_348
+2262,2026-10-03,North America,Enterprise,1,886.55,cust_322
+2263,2026-09-22,Europe,Growth,4,401.45,cust_134
+2264,2026-01-02,North America,Starter,2,58.19,cust_308
+2265,2026-02-10,North America,Starter,4,107.37,cust_346
+2266,2026-07-04,Europe,Growth,3,302.31,cust_254
+2267,2026-01-06,Asia Pacific,Starter,3,82.42,cust_53
+2268,2026-01-07,North America,Starter,5,156.81,cust_213
+2269,2026-05-18,Latin America,Starter,1,27.28,cust_282
+2270,2026-05-14,Europe,Starter,2,52.85,cust_13
+2271,2026-04-09,North America,Enterprise,5,4549.17,cust_144
+2272,2026-03-27,North America,Starter,2,57.34,cust_330
+2273,2026-06-13,North America,Enterprise,3,2626.42,cust_46
+2274,2026-04-17,North America,Enterprise,3,2842.48,cust_357
+2275,2026-06-15,Europe,Growth,5,473.77,cust_109
+2276,2026-03-08,Europe,Growth,2,197.61,cust_372
+2277,2026-06-18,Latin America,Enterprise,5,4827.69,cust_87
+2278,2026-04-05,North America,Starter,1,30.10,cust_293
+2279,2026-03-18,Asia Pacific,Starter,1,31.57,cust_142
+2280,2026-09-19,North America,Starter,2,57.61,cust_271
+2281,2026-03-24,Asia Pacific,Enterprise,3,2707.88,cust_99
+2282,2026-10-09,Asia Pacific,Starter,1,27.94,cust_351
+2283,2026-01-05,Europe,Growth,2,210.78,cust_132
+2284,2026-01-16,North America,Growth,1,104.06,cust_241
+2285,2026-05-30,Europe,Starter,5,134.70,cust_340
+2286,2026-04-03,North America,Starter,5,143.71,cust_372
+2287,2026-06-15,North America,Scale,3,863.26,cust_56
+2288,2026-06-18,Europe,Starter,4,107.12,cust_120
+2289,2026-05-24,North America,Starter,5,141.71,cust_247
+2290,2026-03-09,North America,Enterprise,2,1778.24,cust_223
+2291,2026-01-23,North America,Growth,4,359.67,cust_40
+2292,2026-09-17,Europe,Starter,1,30.94,cust_15
+2293,2026-07-28,Asia Pacific,Starter,5,131.03,cust_137
+2294,2026-09-17,North America,Starter,3,90.19,cust_324
+2295,2026-02-01,North America,Scale,3,828.15,cust_68
+2296,2026-09-21,North America,Growth,5,491.52,cust_288
+2297,2026-07-26,North America,Starter,3,82.79,cust_305
+2298,2026-08-08,Europe,Growth,5,505.55,cust_67
+2299,2026-07-10,Asia Pacific,Growth,5,457.53,cust_86
+2300,2026-08-08,Europe,Starter,1,29.91,cust_87
+2301,2026-08-21,Europe,Starter,4,109.30,cust_174
+2302,2026-02-27,Europe,Growth,1,105.70,cust_56
+2303,2026-08-15,North America,Starter,4,107.24,cust_193
+2304,2026-05-15,Europe,Growth,3,321.31,cust_174
+2305,2026-03-26,Europe,Growth,3,302.11,cust_228
+2306,2026-07-29,Asia Pacific,Scale,5,1463.26,cust_157
+2307,2026-02-03,North America,Starter,3,81.69,cust_37
+2308,2026-01-29,Asia Pacific,Starter,1,27.11,cust_94
+2309,2026-02-24,North America,Enterprise,4,3668.53,cust_135
+2310,2026-07-08,North America,Growth,4,414.26,cust_110
+2311,2026-10-04,Europe,Growth,5,538.09,cust_164
+2312,2026-06-06,Asia Pacific,Starter,3,79.04,cust_21
+2313,2026-09-03,North America,Enterprise,5,4254.26,cust_263
+2314,2026-03-03,North America,Starter,5,151.58,cust_108
+2315,2026-06-04,North America,Growth,3,322.19,cust_29
+2316,2026-05-12,North America,Growth,1,93.59,cust_368
+2317,2026-07-26,North America,Growth,2,212.48,cust_273
+2318,2026-05-08,Europe,Growth,2,197.07,cust_181
+2319,2026-05-27,North America,Starter,5,142.83,cust_259
+2320,2026-07-27,Europe,Enterprise,2,1665.01,cust_326
+2321,2026-04-29,North America,Starter,5,153.98,cust_292
+2322,2026-06-16,Europe,Starter,4,118.87,cust_74
+2323,2026-04-07,North America,Starter,4,123.67,cust_297
+2324,2026-02-22,Europe,Starter,5,147.03,cust_130
+2325,2026-09-21,North America,Starter,3,78.47,cust_292
+2326,2026-05-21,Europe,Scale,5,1549.94,cust_17
+2327,2026-03-27,Latin America,Growth,3,277.68,cust_363
+2328,2026-06-03,Europe,Growth,4,402.40,cust_190
+2329,2026-01-12,Asia Pacific,Starter,1,29.42,cust_34
+2330,2026-04-20,North America,Enterprise,2,1716.71,cust_347
+2331,2026-07-28,North America,Starter,1,26.44,cust_250
+2332,2026-04-19,North America,Starter,1,29.01,cust_59
+2333,2026-07-26,North America,Starter,3,84.53,cust_148
+2334,2026-01-27,North America,Growth,5,480.55,cust_176
+2335,2026-07-19,North America,Starter,4,111.79,cust_275
+2336,2026-06-22,Europe,Starter,5,144.56,cust_37
+2337,2026-10-06,North America,Scale,2,648.55,cust_52
+2338,2026-03-27,North America,Growth,1,105.56,cust_157
+2339,2026-07-13,North America,Growth,5,536.57,cust_251
+2340,2026-07-31,North America,Growth,2,197.58,cust_57
+2341,2026-06-13,North America,Starter,3,80.72,cust_128
+2342,2026-02-23,North America,Starter,5,141.96,cust_341
+2343,2026-07-03,Europe,Scale,1,292.83,cust_315
+2344,2026-03-11,North America,Scale,3,965.81,cust_170
+2345,2026-07-11,North America,Starter,4,122.02,cust_1
+2346,2026-02-10,Europe,Starter,3,82.18,cust_197
+2347,2026-04-20,North America,Scale,2,560.37,cust_30
+2348,2026-08-02,North America,Growth,3,312.25,cust_281
+2349,2026-08-09,North America,Starter,5,146.11,cust_186
+2350,2026-01-30,Europe,Starter,1,26.16,cust_154
+2351,2026-07-20,North America,Growth,3,319.82,cust_313
+2352,2026-02-01,Europe,Growth,5,492.74,cust_110
+2353,2026-01-26,North America,Starter,5,149.63,cust_85
+2354,2026-07-27,North America,Starter,5,131.58,cust_211
+2355,2026-06-15,Europe,Growth,5,486.24,cust_126
+2356,2026-07-23,North America,Starter,3,80.95,cust_341
+2357,2026-03-15,North America,Enterprise,1,909.48,cust_285
+2358,2026-07-26,Europe,Starter,5,135.18,cust_74
+2359,2026-04-22,North America,Scale,2,557.00,cust_257
+2360,2026-07-09,Europe,Starter,2,59.16,cust_177
+2361,2026-04-03,North America,Growth,3,275.81,cust_130
+2362,2026-09-28,North America,Scale,4,1209.37,cust_90
+2363,2026-03-25,Europe,Starter,5,148.14,cust_133
+2364,2026-06-24,Asia Pacific,Enterprise,3,2781.76,cust_317
+2365,2026-02-05,North America,Scale,3,895.74,cust_190
+2366,2026-01-21,North America,Starter,2,54.96,cust_22
+2367,2026-01-21,Europe,Growth,2,183.01,cust_174
+2368,2026-07-05,North America,Scale,3,946.34,cust_256
+2369,2026-06-19,North America,Scale,5,1463.37,cust_243
+2370,2026-07-09,North America,Growth,5,472.84,cust_237
+2371,2026-09-07,North America,Starter,1,27.36,cust_336
+2372,2026-04-13,Europe,Starter,1,26.40,cust_347
+2373,2026-01-13,Europe,Starter,3,81.49,cust_53
+2374,2026-03-15,Europe,Enterprise,1,951.54,cust_309
+2375,2026-02-22,North America,Starter,1,28.85,cust_177
+2376,2026-01-14,North America,Starter,5,157.06,cust_52
+2377,2026-08-14,Asia Pacific,Scale,4,1181.39,cust_255
+2378,2026-03-24,North America,Enterprise,4,3639.01,cust_328
+2379,2026-04-23,North America,Growth,4,397.09,cust_175
+2380,2026-04-04,North America,Starter,1,26.91,cust_117
+2381,2026-04-27,North America,Growth,5,512.82,cust_237
+2382,2026-06-05,North America,Enterprise,5,4875.73,cust_37
+2383,2026-08-16,Europe,Enterprise,4,3825.68,cust_215
+2384,2026-03-06,North America,Starter,1,30.55,cust_226
+2385,2026-09-01,North America,Starter,3,95.23,cust_100
+2386,2026-06-17,Europe,Starter,4,111.86,cust_1
+2387,2026-06-22,Europe,Scale,4,1302.14,cust_134
+2388,2026-04-23,Europe,Scale,2,563.53,cust_272
+2389,2026-08-27,North America,Enterprise,5,4320.15,cust_154
+2390,2026-06-03,North America,Starter,3,93.90,cust_120
+2391,2026-09-16,North America,Starter,1,28.48,cust_355
+2392,2026-09-20,North America,Growth,3,322.95,cust_222
+2393,2026-04-07,North America,Starter,2,57.00,cust_341
+2394,2026-03-01,Europe,Starter,3,93.82,cust_15
+2395,2026-09-28,North America,Starter,1,29.63,cust_361
+2396,2026-07-17,North America,Growth,3,307.14,cust_244
+2397,2026-01-01,North America,Scale,1,288.03,cust_253
+2398,2026-05-11,Asia Pacific,Enterprise,1,878.06,cust_63
+2399,2026-06-30,Asia Pacific,Enterprise,5,4344.42,cust_6
+2400,2026-07-27,Europe,Starter,3,94.76,cust_316
+2401,2026-10-07,Europe,Growth,4,400.00,cust_218
+2402,2026-05-18,North America,Starter,5,155.69,cust_341
+2403,2026-07-09,North America,Starter,4,127.45,cust_206
+2404,2026-03-28,North America,Starter,2,52.23,cust_317
+2405,2026-01-30,Asia Pacific,Starter,2,54.92,cust_15
+2406,2026-04-30,North America,Starter,4,108.10,cust_130
+2407,2026-09-23,North America,Enterprise,3,2964.68,cust_166
+2408,2026-03-24,North America,Starter,3,91.38,cust_315
+2409,2026-04-14,North America,Growth,2,212.74,cust_161
+2410,2026-04-05,North America,Scale,1,282.86,cust_257
+2411,2026-05-21,North America,Starter,2,58.16,cust_92
+2412,2026-03-09,Europe,Scale,3,977.64,cust_120
+2413,2026-07-11,North America,Scale,2,656.56,cust_194
+2414,2026-08-20,Asia Pacific,Scale,5,1417.44,cust_291
+2415,2026-03-04,Asia Pacific,Starter,4,111.24,cust_337
+2416,2026-03-30,Europe,Growth,3,274.10,cust_124
+2417,2026-05-16,Europe,Starter,4,105.63,cust_199
+2418,2026-08-03,Latin America,Enterprise,2,1856.97,cust_110
+2419,2026-03-01,North America,Starter,3,93.09,cust_98
+2420,2026-06-12,Asia Pacific,Growth,3,270.75,cust_71
+2421,2026-04-17,Europe,Scale,4,1151.89,cust_16
+2422,2026-09-24,North America,Starter,4,123.62,cust_342
+2423,2026-09-30,Europe,Growth,5,454.23,cust_90
+2424,2026-07-05,Asia Pacific,Starter,3,83.70,cust_70
+2425,2026-09-27,Europe,Starter,4,104.85,cust_356
+2426,2026-08-06,North America,Starter,2,62.87,cust_342
+2427,2026-08-29,Europe,Enterprise,4,3571.22,cust_257
+2428,2026-02-16,Europe,Growth,2,196.43,cust_36
+2429,2026-03-14,North America,Starter,4,118.29,cust_209
+2430,2026-01-22,North America,Scale,3,942.35,cust_250
+2431,2026-04-19,Europe,Starter,1,31.54,cust_238
+2432,2026-03-01,North America,Scale,4,1298.11,cust_48
+2433,2026-09-15,North America,Starter,1,27.98,cust_54
+2434,2026-03-06,North America,Starter,2,62.28,cust_198
+2435,2026-06-01,Europe,Starter,4,122.54,cust_10
+2436,2026-07-11,North America,Starter,2,60.09,cust_84
+2437,2026-01-19,North America,Starter,1,29.69,cust_285
+2438,2026-03-17,Asia Pacific,Scale,4,1109.09,cust_145
+2439,2026-06-11,Europe,Starter,3,79.00,cust_127
+2440,2026-03-19,Europe,Scale,2,567.21,cust_362
+2441,2026-03-27,Europe,Starter,1,26.65,cust_55
+2442,2026-06-24,North America,Starter,3,80.47,cust_72
+2443,2026-03-23,North America,Growth,5,542.09,cust_3
+2444,2026-04-07,North America,Starter,1,30.89,cust_40
+2445,2026-08-24,North America,Enterprise,4,3714.94,cust_255
+2446,2026-06-16,Europe,Growth,1,100.50,cust_134
+2447,2026-09-17,Europe,Enterprise,4,3583.71,cust_217
+2448,2026-08-17,North America,Growth,2,191.12,cust_360
+2449,2026-08-07,North America,Scale,2,589.62,cust_355
+2450,2026-04-26,Europe,Starter,1,29.04,cust_98
+2451,2026-04-09,North America,Enterprise,1,924.77,cust_324
+2452,2026-03-15,North America,Enterprise,2,1883.31,cust_270
+2453,2026-03-04,North America,Enterprise,4,3385.70,cust_150
+2454,2026-01-04,North America,Starter,4,116.71,cust_10
+2455,2026-03-04,Europe,Scale,5,1607.77,cust_361
+2456,2026-08-30,North America,Starter,2,60.69,cust_41
+2457,2026-04-24,North America,Starter,5,159.47,cust_377
+2458,2026-08-22,North America,Starter,3,78.86,cust_134
+2459,2026-07-12,Asia Pacific,Starter,2,60.91,cust_91
+2460,2026-07-26,North America,Growth,2,185.32,cust_324
+2461,2026-06-06,Europe,Growth,1,93.37,cust_100
+2462,2026-10-02,Europe,Enterprise,1,982.94,cust_130
+2463,2026-04-29,Europe,Starter,5,146.98,cust_285
+2464,2026-05-20,North America,Enterprise,4,3303.29,cust_58
+2465,2026-10-02,North America,Scale,5,1390.85,cust_251
+2466,2026-06-13,North America,Growth,2,216.74,cust_326
+2467,2026-03-09,North America,Enterprise,5,4906.79,cust_181
+2468,2026-05-17,North America,Starter,2,56.12,cust_127
+2469,2026-01-04,North America,Starter,5,131.86,cust_359
+2470,2026-03-06,North America,Growth,1,108.34,cust_161
+2471,2026-04-21,North America,Growth,1,105.92,cust_92
+2472,2026-03-15,Latin America,Starter,3,84.12,cust_372
+2473,2026-08-29,North America,Growth,5,511.61,cust_287
+2474,2026-05-22,North America,Growth,4,369.99,cust_298
+2475,2026-05-21,North America,Growth,2,188.85,cust_245
+2476,2026-05-29,North America,Scale,3,891.73,cust_375
+2477,2026-05-07,North America,Enterprise,2,1809.80,cust_283
+2478,2026-01-31,North America,Enterprise,1,959.01,cust_160
+2479,2026-10-02,Europe,Enterprise,1,930.79,cust_314
+2480,2026-06-02,Asia Pacific,Starter,2,58.81,cust_270
+2481,2026-09-09,North America,Enterprise,2,1619.28,cust_156
+2482,2026-05-21,North America,Enterprise,4,3557.02,cust_131
+2483,2026-04-30,Asia Pacific,Starter,2,58.34,cust_20
+2484,2026-08-24,Europe,Growth,1,89.80,cust_272
+2485,2026-08-12,North America,Scale,1,271.89,cust_264
+2486,2026-07-11,Asia Pacific,Starter,5,146.32,cust_117
+2487,2026-07-29,Europe,Starter,4,108.37,cust_116
+2488,2026-01-29,North America,Scale,2,547.18,cust_151
+2489,2026-08-05,Asia Pacific,Enterprise,4,3826.72,cust_3
+2490,2026-02-05,Latin America,Starter,3,87.72,cust_184
+2491,2026-01-22,Latin America,Starter,4,107.45,cust_24
+2492,2026-10-01,Europe,Scale,5,1371.43,cust_313
+2493,2026-02-10,Asia Pacific,Starter,2,58.69,cust_202
+2494,2026-08-25,North America,Scale,5,1521.05,cust_86
+2495,2026-05-08,North America,Growth,5,477.71,cust_26
+2496,2026-06-07,North America,Starter,2,55.01,cust_290
+2497,2026-04-15,North America,Starter,1,27.59,cust_167
+2498,2026-05-07,North America,Enterprise,2,1781.13,cust_253
+2499,2026-06-19,North America,Scale,3,912.13,cust_142
+2500,2026-09-23,North America,Starter,3,86.56,cust_21
+2501,2026-06-01,North America,Enterprise,4,3865.38,cust_257
+2502,2026-01-12,North America,Starter,5,147.16,cust_76
+2503,2026-04-22,Europe,Enterprise,4,3820.10,cust_331
+2504,2026-05-12,Asia Pacific,Scale,3,816.95,cust_338
+2505,2026-03-02,North America,Starter,2,57.80,cust_313
+2506,2026-03-03,Europe,Starter,1,26.96,cust_134
+2507,2026-05-05,North America,Starter,2,58.31,cust_161
+2508,2026-01-22,Europe,Scale,5,1565.85,cust_301
+2509,2026-03-04,North America,Starter,3,93.09,cust_354
+2510,2026-07-09,North America,Enterprise,4,3388.42,cust_157
+2511,2026-04-16,North America,Growth,1,103.18,cust_355
+2512,2026-06-09,North America,Growth,3,299.36,cust_20
+2513,2026-04-11,North America,Enterprise,4,3315.40,cust_219
+2514,2026-06-02,North America,Starter,1,30.96,cust_35
+2515,2026-06-09,Asia Pacific,Growth,2,194.96,cust_76
+2516,2026-01-14,North America,Growth,2,200.20,cust_137
+2517,2026-06-03,North America,Growth,3,298.34,cust_47
+2518,2026-01-03,North America,Growth,5,540.74,cust_76
+2519,2026-05-12,North America,Enterprise,3,2751.46,cust_104
+2520,2026-06-25,Asia Pacific,Enterprise,4,3286.81,cust_10
+2521,2026-08-16,North America,Starter,2,60.61,cust_226
+2522,2026-04-03,North America,Growth,4,396.70,cust_200
+2523,2026-09-27,North America,Starter,4,124.75,cust_328
+2524,2026-03-12,Europe,Starter,5,154.98,cust_201
+2525,2026-08-10,North America,Scale,4,1088.01,cust_283
+2526,2026-06-15,Asia Pacific,Starter,4,123.62,cust_47
+2527,2026-05-15,Europe,Growth,5,520.25,cust_77
+2528,2026-09-28,North America,Starter,4,111.26,cust_97
+2529,2026-05-29,North America,Starter,1,26.17,cust_278
+2530,2026-01-07,North America,Scale,3,948.68,cust_220
+2531,2026-07-26,North America,Growth,1,92.54,cust_357
+2532,2026-09-05,North America,Enterprise,5,4859.59,cust_129
+2533,2026-06-15,North America,Starter,2,63.75,cust_44
+2534,2026-04-12,Europe,Growth,2,193.05,cust_216
+2535,2026-04-04,North America,Enterprise,1,826.24,cust_100
+2536,2026-08-04,North America,Starter,5,141.73,cust_156
+2537,2026-08-16,North America,Scale,1,285.99,cust_205
+2538,2026-07-23,North America,Enterprise,3,2787.75,cust_11
+2539,2026-07-27,North America,Starter,4,113.49,cust_11
+2540,2026-03-15,North America,Starter,1,29.70,cust_324
+2541,2026-08-01,North America,Starter,3,83.02,cust_155
+2542,2026-03-23,North America,Enterprise,4,3582.52,cust_51
+2543,2026-03-22,North America,Starter,5,153.01,cust_23
+2544,2026-03-14,North America,Enterprise,5,4691.49,cust_228
+2545,2026-03-10,North America,Enterprise,5,4055.03,cust_113
+2546,2026-07-21,North America,Starter,1,29.86,cust_131
+2547,2026-07-11,North America,Scale,4,1292.25,cust_160
+2548,2026-08-29,North America,Scale,4,1228.05,cust_259
+2549,2026-02-24,North America,Starter,1,30.27,cust_332
+2550,2026-06-04,Europe,Scale,1,319.29,cust_183
+2551,2026-07-30,North America,Scale,2,631.62,cust_240
+2552,2026-08-28,North America,Scale,3,963.70,cust_165
+2553,2026-02-05,North America,Growth,2,200.69,cust_260
+2554,2026-04-28,North America,Starter,3,87.48,cust_194
+2555,2026-03-28,North America,Growth,1,99.89,cust_222
+2556,2026-01-22,Europe,Scale,5,1489.07,cust_196
+2557,2026-08-14,North America,Growth,5,540.69,cust_21
+2558,2026-08-04,North America,Enterprise,4,3292.47,cust_258
+2559,2026-07-15,North America,Starter,4,107.17,cust_140
+2560,2026-03-21,North America,Starter,4,119.02,cust_188
+2561,2026-02-19,North America,Scale,2,587.13,cust_280
+2562,2026-09-12,North America,Starter,4,105.60,cust_265
+2563,2026-08-22,North America,Starter,1,27.97,cust_235
+2564,2026-01-03,North America,Scale,2,618.33,cust_78
+2565,2026-04-06,Europe,Growth,1,108.57,cust_51
+2566,2026-01-01,North America,Scale,1,326.99,cust_152
+2567,2026-07-31,North America,Growth,5,533.93,cust_243
+2568,2026-03-22,North America,Growth,2,210.70,cust_231
+2569,2026-02-19,Asia Pacific,Growth,5,514.45,cust_9
+2570,2026-09-03,Asia Pacific,Starter,3,79.49,cust_330
+2571,2026-05-23,North America,Starter,3,80.46,cust_8
+2572,2026-08-06,Europe,Scale,1,313.40,cust_274
+2573,2026-08-10,Europe,Enterprise,1,872.79,cust_57
+2574,2026-07-12,Asia Pacific,Scale,5,1555.69,cust_205
+2575,2026-10-08,North America,Scale,5,1390.38,cust_147
+2576,2026-05-17,North America,Starter,4,118.49,cust_357
+2577,2026-01-15,North America,Growth,1,103.65,cust_253
+2578,2026-01-27,Asia Pacific,Growth,1,106.79,cust_239
+2579,2026-01-17,North America,Growth,1,96.96,cust_41
+2580,2026-05-27,Europe,Enterprise,4,3561.04,cust_43
+2581,2026-02-22,Asia Pacific,Enterprise,2,1791.26,cust_254
+2582,2026-02-13,Asia Pacific,Scale,3,819.45,cust_83
+2583,2026-03-30,North America,Scale,1,300.55,cust_143
+2584,2026-02-24,Europe,Starter,2,56.69,cust_242
+2585,2026-03-03,North America,Scale,4,1248.22,cust_20
+2586,2026-06-15,Europe,Growth,5,448.37,cust_150
+2587,2026-08-05,North America,Starter,1,29.97,cust_145
+2588,2026-01-14,Latin America,Enterprise,1,843.28,cust_331
+2589,2026-02-03,Europe,Growth,1,89.68,cust_95
+2590,2026-04-24,North America,Starter,4,123.93,cust_273
+2591,2026-06-28,North America,Growth,5,476.56,cust_267
+2592,2026-08-06,North America,Scale,2,596.22,cust_318
+2593,2026-02-15,Europe,Scale,1,271.03,cust_58
+2594,2026-03-25,Europe,Growth,5,525.39,cust_203
+2595,2026-08-14,North America,Scale,5,1508.53,cust_74
+2596,2026-03-05,North America,Enterprise,2,1757.94,cust_302
+2597,2026-10-07,Europe,Enterprise,5,4674.19,cust_330
+2598,2026-03-27,North America,Enterprise,1,910.96,cust_202
+2599,2026-05-03,North America,Starter,3,86.88,cust_351
+2600,2026-06-09,Asia Pacific,Scale,1,312.06,cust_365
+2601,2026-10-03,Europe,Starter,1,28.93,cust_6
+2602,2026-01-31,North America,Starter,5,144.11,cust_71
+2603,2026-02-22,Europe,Starter,3,83.94,cust_183
+2604,2026-06-29,North America,Growth,3,324.93,cust_349
+2605,2026-04-17,Latin America,Starter,2,60.58,cust_191
+2606,2026-08-04,Europe,Enterprise,5,4330.76,cust_107
+2607,2026-04-06,North America,Growth,5,495.06,cust_343
+2608,2026-07-25,North America,Starter,2,52.93,cust_45
+2609,2026-09-24,North America,Growth,5,523.15,cust_322
+2610,2026-08-05,North America,Growth,3,300.39,cust_218
+2611,2026-08-28,North America,Enterprise,1,906.33,cust_56
+2612,2026-07-07,North America,Growth,3,280.12,cust_81
+2613,2026-05-25,North America,Starter,1,28.88,cust_160
+2614,2026-01-28,Europe,Starter,4,115.64,cust_194
+2615,2026-10-01,North America,Starter,5,138.41,cust_1
+2616,2026-06-27,North America,Starter,2,55.45,cust_142
+2617,2026-01-17,North America,Starter,2,63.54,cust_26
+2618,2026-01-01,Asia Pacific,Growth,4,361.10,cust_228
+2619,2026-06-20,Europe,Starter,2,57.43,cust_65
+2620,2026-01-11,Europe,Growth,4,408.56,cust_283
+2621,2026-08-04,North America,Growth,4,418.98,cust_54
+2622,2026-04-14,Europe,Enterprise,1,919.42,cust_93
+2623,2026-06-27,Europe,Growth,1,96.05,cust_147
+2624,2026-09-02,Europe,Scale,4,1139.67,cust_221
+2625,2026-01-14,North America,Growth,2,179.12,cust_188
+2626,2026-05-28,North America,Enterprise,2,1755.78,cust_361
+2627,2026-01-07,North America,Growth,1,105.13,cust_107
+2628,2026-09-30,North America,Starter,3,93.88,cust_27
+2629,2026-06-27,Asia Pacific,Growth,2,213.70,cust_232
+2630,2026-07-12,North America,Starter,3,90.51,cust_66
+2631,2026-08-20,North America,Enterprise,3,2718.93,cust_245
+2632,2026-03-18,Europe,Scale,5,1630.48,cust_105
+2633,2026-06-26,Latin America,Growth,3,285.83,cust_336
+2634,2026-09-17,North America,Scale,3,879.43,cust_298
+2635,2026-03-29,North America,Enterprise,3,2639.33,cust_133
+2636,2026-04-27,Europe,Starter,3,84.65,cust_224
+2637,2026-05-30,Europe,Starter,1,30.47,cust_131
+2638,2026-05-17,Europe,Starter,3,90.43,cust_292
+2639,2026-10-07,North America,Starter,4,111.38,cust_190
+2640,2026-07-01,Asia Pacific,Starter,3,91.18,cust_376
+2641,2026-01-09,Europe,Scale,1,296.84,cust_77
+2642,2026-07-03,North America,Growth,5,537.45,cust_53
+2643,2026-03-21,North America,Enterprise,2,1783.59,cust_24
+2644,2026-02-04,Asia Pacific,Starter,3,83.63,cust_23
+2645,2026-06-29,North America,Scale,5,1405.08,cust_15
+2646,2026-02-04,North America,Starter,2,52.85,cust_50
+2647,2026-07-18,North America,Scale,1,323.43,cust_72
+2648,2026-06-06,North America,Scale,1,289.76,cust_332
+2649,2026-08-27,Europe,Starter,1,31.28,cust_320
+2650,2026-08-12,Europe,Enterprise,5,4487.32,cust_11
+2651,2026-01-12,North America,Starter,1,31.63,cust_71
+2652,2026-02-16,North America,Growth,1,89.19,cust_229
+2653,2026-07-03,North America,Growth,4,392.62,cust_269
+2654,2026-02-03,Latin America,Growth,1,98.32,cust_376
+2655,2026-07-31,Asia Pacific,Starter,1,26.59,cust_258
+2656,2026-06-13,North America,Scale,5,1419.85,cust_62
+2657,2026-01-01,North America,Scale,2,642.52,cust_352
+2658,2026-08-21,Europe,Scale,3,891.49,cust_133
+2659,2026-06-09,North America,Starter,3,79.33,cust_183
+2660,2026-01-02,North America,Growth,1,104.73,cust_52
+2661,2026-10-06,Europe,Starter,1,30.40,cust_353
+2662,2026-01-05,North America,Growth,2,217.63,cust_161
+2663,2026-02-18,North America,Growth,3,297.75,cust_223
+2664,2026-03-25,Asia Pacific,Scale,4,1279.86,cust_302
+2665,2026-06-28,North America,Starter,5,145.48,cust_16
+2666,2026-10-06,Latin America,Starter,1,26.51,cust_212
+2667,2026-06-09,Europe,Growth,2,193.95,cust_234
+2668,2026-09-03,Asia Pacific,Enterprise,1,827.27,cust_28
+2669,2026-01-19,Europe,Scale,4,1144.58,cust_246
+2670,2026-01-21,North America,Starter,1,30.36,cust_161
+2671,2026-07-21,North America,Growth,4,435.20,cust_366
+2672,2026-07-15,Europe,Starter,2,57.65,cust_170
+2673,2026-06-15,North America,Enterprise,4,3598.60,cust_52
+2674,2026-01-01,North America,Starter,2,63.50,cust_8
+2675,2026-05-15,Asia Pacific,Enterprise,3,2633.85,cust_379
+2676,2026-09-11,Asia Pacific,Starter,1,29.28,cust_353
+2677,2026-03-06,North America,Starter,1,26.93,cust_372
+2678,2026-02-04,North America,Enterprise,3,2796.53,cust_350
+2679,2026-07-20,Europe,Growth,4,422.01,cust_238
+2680,2026-03-01,Europe,Starter,1,31.87,cust_290
+2681,2026-04-22,Asia Pacific,Growth,1,103.35,cust_96
+2682,2026-01-26,Europe,Growth,5,482.86,cust_320
+2683,2026-01-28,Asia Pacific,Starter,3,88.43,cust_23
+2684,2026-01-29,Asia Pacific,Starter,5,136.26,cust_189
+2685,2026-06-18,North America,Scale,4,1194.92,cust_264
+2686,2026-04-25,North America,Starter,5,148.32,cust_205
+2687,2026-06-18,Asia Pacific,Scale,2,545.09,cust_118
+2688,2026-02-01,North America,Growth,2,204.19,cust_145
+2689,2026-07-24,North America,Scale,4,1282.38,cust_91
+2690,2026-08-01,North America,Starter,2,55.44,cust_340
+2691,2026-03-20,North America,Enterprise,1,922.69,cust_269
+2692,2026-04-28,North America,Enterprise,4,3895.45,cust_259
+2693,2026-07-30,Asia Pacific,Growth,3,281.72,cust_207
+2694,2026-02-10,North America,Growth,2,201.22,cust_179
+2695,2026-02-09,Asia Pacific,Starter,3,82.99,cust_249
+2696,2026-04-15,North America,Starter,2,54.15,cust_181
+2697,2026-03-03,North America,Starter,5,150.29,cust_210
+2698,2026-04-23,North America,Starter,4,109.85,cust_74
+2699,2026-03-12,North America,Scale,1,292.46,cust_207
+2700,2026-04-06,Asia Pacific,Scale,2,605.81,cust_227
+2701,2026-05-11,North America,Starter,2,55.49,cust_230
+2702,2026-02-23,North America,Scale,1,289.44,cust_339
+2703,2026-05-22,Latin America,Scale,1,284.33,cust_302
+2704,2026-01-16,Europe,Enterprise,3,2942.44,cust_50
+2705,2026-01-22,Latin America,Growth,5,527.74,cust_281
+2706,2026-01-06,North America,Starter,4,107.56,cust_80
+2707,2026-07-25,Asia Pacific,Growth,3,279.52,cust_151
+2708,2026-04-18,Europe,Starter,3,86.97,cust_340
+2709,2026-08-23,Asia Pacific,Scale,3,809.51,cust_154
+2710,2026-08-06,Asia Pacific,Starter,5,133.69,cust_264
+2711,2026-03-08,Asia Pacific,Scale,2,551.26,cust_315
+2712,2026-06-10,North America,Enterprise,4,3837.21,cust_18
+2713,2026-05-08,North America,Scale,3,931.29,cust_23
+2714,2026-10-02,North America,Starter,2,54.39,cust_309
+2715,2026-09-13,Asia Pacific,Enterprise,3,2892.35,cust_179
+2716,2026-04-09,Latin America,Growth,3,279.76,cust_29
+2717,2026-06-01,North America,Scale,4,1230.49,cust_19
+2718,2026-05-07,North America,Growth,1,96.72,cust_218
+2719,2026-07-29,North America,Enterprise,3,2550.01,cust_86
+2720,2026-09-17,North America,Starter,5,157.26,cust_198
+2721,2026-04-20,Europe,Starter,5,154.23,cust_146
+2722,2026-08-23,Europe,Starter,5,153.68,cust_287
+2723,2026-04-03,Europe,Scale,1,270.09,cust_16
+2724,2026-07-01,North America,Growth,4,383.38,cust_126
+2725,2026-01-06,North America,Growth,4,373.44,cust_6
+2726,2026-08-17,Latin America,Starter,1,31.08,cust_107
+2727,2026-09-15,Asia Pacific,Growth,2,212.01,cust_174
+2728,2026-06-11,Europe,Scale,1,315.77,cust_272
+2729,2026-07-27,North America,Growth,4,424.72,cust_105
+2730,2026-03-29,North America,Growth,2,195.78,cust_10
+2731,2026-03-01,North America,Enterprise,5,4631.62,cust_330
+2732,2026-04-02,North America,Scale,2,642.27,cust_115
+2733,2026-02-27,North America,Growth,2,216.61,cust_183
+2734,2026-01-15,Europe,Scale,3,906.35,cust_364
+2735,2026-09-15,Europe,Growth,3,302.40,cust_269
+2736,2026-07-09,North America,Enterprise,1,836.61,cust_175
+2737,2026-05-04,North America,Growth,5,523.52,cust_171
+2738,2026-02-12,Asia Pacific,Starter,3,80.70,cust_320
+2739,2026-07-10,North America,Growth,3,293.56,cust_303
+2740,2026-07-18,Europe,Enterprise,4,3352.96,cust_189
+2741,2026-01-03,Europe,Starter,5,140.06,cust_221
+2742,2026-07-23,Europe,Starter,3,90.03,cust_376
+2743,2026-06-04,Europe,Growth,3,281.41,cust_101
+2744,2026-07-19,North America,Starter,2,63.50,cust_20
+2745,2026-02-12,Europe,Growth,3,300.42,cust_220
+2746,2026-09-09,Asia Pacific,Starter,3,79.30,cust_345
+2747,2026-08-19,North America,Starter,1,28.71,cust_249
+2748,2026-09-08,Asia Pacific,Starter,1,29.42,cust_268
+2749,2026-01-10,North America,Starter,2,63.66,cust_339
+2750,2026-05-22,Europe,Starter,1,31.08,cust_114
+2751,2026-08-28,Europe,Starter,2,52.68,cust_52
+2752,2026-05-10,North America,Enterprise,1,831.73,cust_71
+2753,2026-07-31,Europe,Enterprise,3,2882.98,cust_149
+2754,2026-04-27,Asia Pacific,Starter,4,122.35,cust_171
+2755,2026-03-20,Asia Pacific,Starter,1,30.01,cust_20
+2756,2026-01-05,Europe,Scale,2,550.82,cust_171
+2757,2026-09-21,North America,Scale,2,637.88,cust_83
+2758,2026-10-07,North America,Starter,2,62.82,cust_106
+2759,2026-04-10,Asia Pacific,Starter,5,151.30,cust_54
+2760,2026-10-07,North America,Growth,1,105.81,cust_285
+2761,2026-09-15,Europe,Growth,4,356.42,cust_302
+2762,2026-06-16,Asia Pacific,Growth,5,476.76,cust_336
+2763,2026-02-05,North America,Scale,1,291.27,cust_234
+2764,2026-08-26,North America,Growth,4,409.42,cust_169
+2765,2026-07-09,Europe,Starter,4,116.30,cust_133
+2766,2026-03-08,Latin America,Starter,4,104.74,cust_15
+2767,2026-08-16,North America,Starter,2,58.39,cust_115
+2768,2026-08-25,North America,Scale,5,1406.09,cust_278
+2769,2026-05-05,Europe,Starter,3,78.51,cust_311
+2770,2026-07-05,North America,Starter,1,29.62,cust_48
+2771,2026-08-08,Asia Pacific,Scale,5,1605.12,cust_27
+2772,2026-09-22,North America,Growth,2,189.24,cust_351
+2773,2026-02-06,North America,Enterprise,1,958.78,cust_192
+2774,2026-08-19,Latin America,Enterprise,5,4844.20,cust_367
+2775,2026-01-07,Europe,Starter,4,106.32,cust_147
+2776,2026-06-07,Europe,Enterprise,3,2926.79,cust_272
+2777,2026-05-18,Europe,Growth,1,97.55,cust_355
+2778,2026-03-24,North America,Starter,5,144.86,cust_132
+2779,2026-06-30,Europe,Starter,1,30.50,cust_75
+2780,2026-08-16,North America,Growth,1,97.35,cust_129
+2781,2026-01-03,North America,Starter,1,31.30,cust_13
+2782,2026-06-01,North America,Growth,5,537.73,cust_304
+2783,2026-01-23,North America,Starter,1,28.92,cust_154
+2784,2026-02-28,Europe,Growth,5,518.66,cust_238
+2785,2026-08-17,North America,Scale,5,1396.80,cust_259
+2786,2026-02-26,North America,Enterprise,5,4103.86,cust_130
+2787,2026-01-11,Europe,Starter,5,133.60,cust_349
+2788,2026-01-19,North America,Scale,3,952.00,cust_319
+2789,2026-04-11,Latin America,Enterprise,5,4286.80,cust_103
+2790,2026-01-26,Asia Pacific,Growth,3,315.90,cust_141
+2791,2026-01-26,North America,Starter,1,30.21,cust_276
+2792,2026-05-08,North America,Starter,5,134.94,cust_39
+2793,2026-04-17,Latin America,Growth,5,488.55,cust_227
+2794,2026-08-09,North America,Enterprise,5,4289.08,cust_316
+2795,2026-06-17,North America,Starter,3,92.83,cust_120
+2796,2026-04-25,North America,Scale,2,590.95,cust_144
+2797,2026-06-24,Asia Pacific,Enterprise,3,2497.03,cust_159
+2798,2026-01-15,North America,Starter,3,88.50,cust_302
+2799,2026-03-14,Europe,Starter,4,123.69,cust_167
+2800,2026-06-05,North America,Starter,1,29.57,cust_365
+2801,2026-04-01,North America,Growth,3,303.29,cust_148
+2802,2026-07-25,Europe,Growth,5,475.62,cust_365
+2803,2026-03-20,North America,Scale,1,313.80,cust_173
+2804,2026-06-20,Asia Pacific,Enterprise,4,3571.50,cust_185
+2805,2026-06-04,Europe,Scale,1,296.78,cust_7
+2806,2026-06-30,Asia Pacific,Scale,5,1478.72,cust_221
+2807,2026-05-16,North America,Growth,2,195.93,cust_107
+2808,2026-01-20,North America,Growth,3,287.73,cust_355
+2809,2026-01-21,Europe,Enterprise,3,2624.15,cust_212
+2810,2026-09-18,North America,Starter,3,83.04,cust_22
+2811,2026-01-03,North America,Starter,1,27.22,cust_109
+2812,2026-02-08,North America,Starter,4,106.86,cust_86
+2813,2026-07-06,Europe,Starter,1,28.27,cust_303
+2814,2026-07-10,North America,Growth,4,383.37,cust_344
+2815,2026-09-29,North America,Scale,3,811.05,cust_317
+2816,2026-08-19,North America,Enterprise,2,1829.17,cust_378
+2817,2026-04-19,Europe,Starter,5,131.70,cust_202
+2818,2026-02-17,Asia Pacific,Starter,4,105.50,cust_241
+2819,2026-05-06,North America,Scale,1,324.95,cust_368
+2820,2026-07-15,Europe,Starter,4,114.82,cust_25
+2821,2026-01-07,North America,Starter,5,151.38,cust_67
+2822,2026-02-22,Europe,Scale,5,1441.04,cust_36
+2823,2026-02-13,Europe,Starter,4,121.88,cust_377
+2824,2026-08-01,Europe,Growth,4,382.78,cust_324
+2825,2026-07-27,Asia Pacific,Enterprise,1,912.84,cust_7
+2826,2026-05-02,North America,Growth,3,298.87,cust_8
+2827,2026-05-13,North America,Scale,5,1551.45,cust_39
+2828,2026-09-22,North America,Scale,3,914.84,cust_47
+2829,2026-08-10,Europe,Starter,2,61.59,cust_9
+2830,2026-10-09,North America,Enterprise,5,4615.54,cust_9
+2831,2026-05-21,North America,Starter,2,55.90,cust_121
+2832,2026-02-22,North America,Scale,2,641.93,cust_333
+2833,2026-07-18,North America,Growth,5,514.66,cust_73
+2834,2026-06-01,Europe,Enterprise,1,847.01,cust_269
+2835,2026-02-02,Europe,Growth,5,502.93,cust_243
+2836,2026-08-24,Asia Pacific,Scale,3,961.81,cust_307
+2837,2026-02-06,North America,Starter,2,54.06,cust_189
+2838,2026-08-18,Asia Pacific,Starter,2,60.75,cust_10
+2839,2026-03-10,North America,Starter,5,146.91,cust_263
+2840,2026-01-04,North America,Scale,3,983.98,cust_127
+2841,2026-03-15,Europe,Starter,1,27.99,cust_40
+2842,2026-06-29,North America,Scale,3,812.44,cust_12
+2843,2026-03-16,Asia Pacific,Scale,5,1578.90,cust_262
+2844,2026-08-25,North America,Scale,1,319.22,cust_273
+2845,2026-09-09,North America,Growth,5,515.44,cust_347
+2846,2026-01-05,Europe,Enterprise,1,939.36,cust_125
+2847,2026-07-27,Europe,Starter,2,53.29,cust_23
+2848,2026-09-12,North America,Growth,5,508.69,cust_7
+2849,2026-05-15,Europe,Growth,5,535.16,cust_86
+2850,2026-06-04,Asia Pacific,Starter,4,106.75,cust_191
+2851,2026-03-13,Europe,Starter,5,135.00,cust_308
+2852,2026-03-08,Europe,Enterprise,5,4454.72,cust_107
+2853,2026-03-10,North America,Starter,5,158.17,cust_241
+2854,2026-09-25,North America,Growth,3,275.09,cust_359
+2855,2026-01-24,North America,Starter,5,158.61,cust_278
+2856,2026-04-14,Europe,Starter,2,57.98,cust_191
+2857,2026-04-04,North America,Scale,5,1416.33,cust_193
+2858,2026-08-01,Europe,Growth,1,102.53,cust_78
+2859,2026-09-09,Europe,Starter,1,31.66,cust_169
+2860,2026-09-14,North America,Starter,2,60.84,cust_94
+2861,2026-01-21,North America,Starter,3,85.90,cust_278
+2862,2026-04-27,North America,Enterprise,4,3883.23,cust_42
+2863,2026-02-25,Europe,Enterprise,1,952.46,cust_321
+2864,2026-06-28,North America,Starter,4,112.83,cust_369
+2865,2026-09-12,North America,Growth,2,201.89,cust_247
+2866,2026-03-07,North America,Growth,2,205.20,cust_88
+2867,2026-06-27,North America,Starter,3,81.50,cust_250
+2868,2026-01-05,North America,Starter,5,156.59,cust_9
+2869,2026-10-02,North America,Starter,2,60.18,cust_282
+2870,2026-08-02,North America,Starter,1,27.68,cust_233
+2871,2026-01-30,Europe,Starter,2,60.79,cust_253
+2872,2026-01-23,North America,Enterprise,5,4755.71,cust_12
+2873,2026-08-14,North America,Starter,5,143.07,cust_260
+2874,2026-03-24,Europe,Growth,3,309.79,cust_272
+2875,2026-04-11,North America,Enterprise,5,4440.06,cust_317
+2876,2026-05-02,North America,Scale,1,284.04,cust_379
+2877,2026-09-24,North America,Enterprise,5,4140.86,cust_147
+2878,2026-05-15,North America,Scale,1,304.04,cust_151
+2879,2026-01-08,Asia Pacific,Growth,1,100.23,cust_242
+2880,2026-06-05,Europe,Enterprise,1,850.20,cust_79
+2881,2026-01-22,North America,Growth,3,273.83,cust_29
+2882,2026-06-09,North America,Growth,4,378.94,cust_86
+2883,2026-02-11,North America,Starter,4,111.98,cust_25
+2884,2026-09-26,North America,Starter,5,142.29,cust_333
+2885,2026-03-29,North America,Enterprise,5,4196.16,cust_333
+2886,2026-01-22,Europe,Enterprise,3,2781.03,cust_328
+2887,2026-01-19,North America,Starter,4,105.90,cust_51
+2888,2026-01-07,North America,Starter,5,132.01,cust_380
+2889,2026-01-31,North America,Starter,3,85.22,cust_38
+2890,2026-04-23,North America,Starter,4,106.64,cust_51
+2891,2026-07-27,Europe,Starter,3,86.49,cust_107
+2892,2026-03-30,North America,Enterprise,4,3879.65,cust_150
+2893,2026-07-09,North America,Scale,2,638.92,cust_304
+2894,2026-06-26,Europe,Scale,5,1591.12,cust_308
+2895,2026-05-14,North America,Growth,2,186.74,cust_305
+2896,2026-03-01,Europe,Starter,2,55.97,cust_204
+2897,2026-02-15,North America,Enterprise,5,4811.75,cust_223
+2898,2026-08-31,North America,Starter,3,86.79,cust_95
+2899,2026-07-25,North America,Starter,5,137.71,cust_74
+2900,2026-08-15,Asia Pacific,Starter,3,80.76,cust_63
+2901,2026-03-16,North America,Enterprise,3,2913.61,cust_294
+2902,2026-04-02,North America,Growth,2,179.14,cust_136
+2903,2026-01-01,Asia Pacific,Enterprise,4,3347.63,cust_301
+2904,2026-04-12,North America,Growth,1,108.38,cust_190
+2905,2026-05-30,Asia Pacific,Enterprise,5,4145.20,cust_324
+2906,2026-07-10,North America,Starter,2,53.13,cust_130
+2907,2026-09-02,North America,Starter,2,59.04,cust_10
+2908,2026-02-13,North America,Enterprise,1,968.12,cust_286
+2909,2026-07-19,Europe,Enterprise,5,4933.99,cust_112
+2910,2026-08-19,Europe,Enterprise,5,4337.07,cust_345
+2911,2026-10-04,Asia Pacific,Starter,3,88.71,cust_140
+2912,2026-04-09,North America,Starter,3,86.24,cust_113
+2913,2026-09-08,North America,Enterprise,5,4048.01,cust_260
+2914,2026-05-12,North America,Starter,4,107.61,cust_372
+2915,2026-08-18,North America,Starter,5,131.19,cust_49
+2916,2026-08-23,Latin America,Enterprise,1,986.85,cust_314
+2917,2026-07-27,North America,Growth,1,106.31,cust_270
+2918,2026-01-14,Europe,Growth,5,467.01,cust_3
+2919,2026-04-11,North America,Starter,4,120.44,cust_189
+2920,2026-02-27,Europe,Scale,5,1557.13,cust_108
+2921,2026-04-27,Latin America,Starter,3,85.62,cust_373
+2922,2026-01-27,North America,Enterprise,1,982.05,cust_276
+2923,2026-05-04,North America,Scale,4,1269.18,cust_106
+2924,2026-05-03,North America,Scale,3,825.50,cust_192
+2925,2026-02-12,Europe,Starter,5,153.66,cust_225
+2926,2026-04-03,North America,Growth,5,495.70,cust_196
+2927,2026-04-22,Europe,Starter,2,62.48,cust_64
+2928,2026-10-09,North America,Growth,5,472.32,cust_274
+2929,2026-02-03,Europe,Growth,4,417.97,cust_341
+2930,2026-01-08,Europe,Enterprise,1,960.04,cust_77
+2931,2026-06-24,North America,Starter,1,26.93,cust_286
+2932,2026-01-28,Asia Pacific,Growth,4,379.49,cust_125
+2933,2026-02-09,Europe,Starter,3,84.54,cust_125
+2934,2026-06-27,North America,Growth,4,379.91,cust_330
+2935,2026-08-24,North America,Growth,1,104.68,cust_77
+2936,2026-01-10,North America,Scale,1,276.51,cust_29
+2937,2026-07-16,Latin America,Starter,3,78.50,cust_59
+2938,2026-02-15,North America,Growth,5,501.64,cust_285
+2939,2026-05-19,North America,Starter,5,131.53,cust_318
+2940,2026-09-22,North America,Enterprise,5,4175.53,cust_123
+2941,2026-10-09,North America,Growth,3,318.74,cust_142
+2942,2026-01-18,North America,Growth,3,281.11,cust_9
+2943,2026-07-26,Europe,Growth,3,297.64,cust_137
+2944,2026-04-09,North America,Enterprise,3,2563.21,cust_106
+2945,2026-05-29,North America,Starter,5,139.38,cust_33
+2946,2026-06-28,Europe,Starter,4,125.72,cust_34
+2947,2026-06-07,Asia Pacific,Starter,2,57.38,cust_115
+2948,2026-05-09,Europe,Starter,5,143.64,cust_304
+2949,2026-08-13,North America,Starter,2,55.71,cust_140
+2950,2026-02-15,Asia Pacific,Growth,3,273.00,cust_110
+2951,2026-03-04,North America,Starter,1,29.42,cust_243
+2952,2026-09-15,Europe,Growth,3,304.94,cust_236
+2953,2026-08-21,Europe,Starter,2,63.57,cust_371
+2954,2026-03-10,North America,Enterprise,3,2522.61,cust_62
+2955,2026-04-03,North America,Growth,4,357.89,cust_149
+2956,2026-05-19,North America,Starter,2,54.55,cust_66
+2957,2026-09-26,Europe,Enterprise,4,3945.48,cust_106
+2958,2026-08-17,Europe,Scale,2,642.83,cust_262
+2959,2026-02-16,Europe,Starter,3,89.54,cust_38
+2960,2026-02-19,North America,Starter,3,88.70,cust_20
+2961,2026-01-26,North America,Growth,1,106.13,cust_259
+2962,2026-02-26,North America,Starter,2,54.78,cust_32
+2963,2026-06-13,North America,Starter,3,84.84,cust_3
+2964,2026-02-07,North America,Starter,3,83.15,cust_186
+2965,2026-10-07,North America,Starter,2,52.61,cust_228
+2966,2026-04-10,Europe,Starter,1,31.67,cust_149
+2967,2026-07-11,Europe,Growth,1,102.18,cust_14
+2968,2026-04-23,Europe,Growth,5,501.53,cust_314
+2969,2026-02-14,Asia Pacific,Starter,2,61.30,cust_7
+2970,2026-01-24,Asia Pacific,Starter,4,104.72,cust_268
+2971,2026-03-12,Asia Pacific,Growth,5,515.61,cust_268
+2972,2026-03-11,Latin America,Scale,5,1588.73,cust_103
+2973,2026-06-26,Europe,Growth,5,456.45,cust_11
+2974,2026-07-03,Asia Pacific,Growth,5,463.49,cust_201
+2975,2026-04-29,North America,Starter,3,91.12,cust_352
+2976,2026-05-11,North America,Starter,3,92.74,cust_37
+2977,2026-10-01,North America,Growth,1,93.08,cust_363
+2978,2026-03-14,North America,Enterprise,1,882.48,cust_25
+2979,2026-07-24,North America,Enterprise,5,4615.47,cust_16
+2980,2026-08-01,Europe,Enterprise,2,1844.72,cust_109
+2981,2026-07-11,North America,Growth,3,282.37,cust_171
+2982,2026-06-09,Asia Pacific,Scale,4,1144.19,cust_154
+2983,2026-01-06,North America,Starter,3,83.49,cust_132
+2984,2026-08-01,North America,Scale,3,914.50,cust_168
+2985,2026-07-01,Europe,Growth,1,99.30,cust_129
+2986,2026-07-27,Asia Pacific,Starter,2,58.02,cust_46
+2987,2026-08-26,North America,Growth,3,310.29,cust_309
+2988,2026-01-23,Europe,Enterprise,3,2481.17,cust_41
+2989,2026-09-22,Europe,Starter,5,155.21,cust_233
+2990,2026-02-25,North America,Starter,4,124.80,cust_118
+2991,2026-02-08,North America,Enterprise,4,3595.64,cust_100
+2992,2026-03-07,Europe,Growth,5,488.50,cust_169
+2993,2026-02-11,Europe,Growth,4,405.17,cust_21
+2994,2026-02-04,North America,Scale,2,581.55,cust_359
+2995,2026-06-22,North America,Enterprise,2,1636.80,cust_271
+2996,2026-05-13,North America,Starter,5,143.26,cust_301
+2997,2026-06-07,North America,Growth,4,367.76,cust_128
+2998,2026-06-29,North America,Scale,5,1435.75,cust_57
+2999,2026-08-23,North America,Starter,2,58.45,cust_300
+3000,2026-07-14,North America,Growth,3,311.31,cust_314
+3001,2026-03-06,North America,Enterprise,1,845.43,cust_203
+3002,2026-05-29,Europe,Enterprise,3,2714.37,cust_197
+3003,2026-04-12,North America,Starter,3,93.19,cust_178
+3004,2026-01-28,North America,Enterprise,3,2931.99,cust_142
+3005,2026-05-12,North America,Scale,3,956.81,cust_293
+3006,2026-03-29,Europe,Growth,2,186.88,cust_229
+3007,2026-07-16,Europe,Starter,2,61.26,cust_277
+3008,2026-02-12,North America,Scale,3,930.96,cust_312
+3009,2026-03-23,North America,Starter,5,144.03,cust_102
+3010,2026-02-19,North America,Scale,4,1207.30,cust_250
+3011,2026-07-05,North America,Scale,2,617.34,cust_22
+3012,2026-05-12,North America,Starter,3,79.08,cust_133
+3013,2026-06-19,North America,Starter,4,112.40,cust_22
+3014,2026-08-16,Europe,Starter,4,113.83,cust_126
+3015,2026-04-26,Europe,Scale,3,872.02,cust_245
+3016,2026-01-11,Europe,Growth,3,299.02,cust_283
+3017,2026-02-01,North America,Starter,1,29.06,cust_104
+3018,2026-03-01,Europe,Scale,1,270.13,cust_359
+3019,2026-06-13,North America,Growth,5,478.50,cust_226
+3020,2026-08-31,Asia Pacific,Growth,2,194.71,cust_159
+3021,2026-07-26,Latin America,Enterprise,3,2599.46,cust_20
+3022,2026-09-10,North America,Growth,2,185.51,cust_156
+3023,2026-03-02,North America,Scale,4,1199.07,cust_214
+3024,2026-07-08,North America,Scale,3,887.26,cust_349
+3025,2026-02-18,North America,Scale,5,1566.20,cust_70
+3026,2026-06-14,Europe,Growth,3,284.32,cust_76
+3027,2026-03-12,Europe,Scale,2,541.33,cust_334
+3028,2026-01-14,North America,Scale,4,1291.78,cust_329
+3029,2026-06-28,Europe,Scale,2,579.67,cust_354
+3030,2026-08-15,North America,Scale,1,287.11,cust_346
+3031,2026-09-29,North America,Enterprise,4,3495.19,cust_251
+3032,2026-06-25,North America,Starter,1,31.41,cust_72
+3033,2026-09-08,Europe,Starter,5,150.62,cust_126
+3034,2026-02-19,Europe,Starter,5,152.45,cust_17
+3035,2026-06-13,Europe,Starter,2,63.03,cust_28
+3036,2026-08-14,North America,Starter,4,107.85,cust_216
+3037,2026-08-21,Latin America,Starter,5,156.20,cust_276
+3038,2026-01-30,North America,Starter,5,137.74,cust_18
+3039,2026-07-26,North America,Starter,2,53.54,cust_324
+3040,2026-07-03,North America,Starter,4,108.64,cust_139
+3041,2026-10-09,North America,Growth,3,294.71,cust_169
+3042,2026-10-05,North America,Growth,1,99.57,cust_203
+3043,2026-07-01,North America,Starter,1,30.67,cust_48
+3044,2026-01-14,Asia Pacific,Starter,1,30.55,cust_377
+3045,2026-03-22,North America,Starter,3,84.00,cust_221
+3046,2026-03-22,North America,Growth,2,215.43,cust_123
+3047,2026-09-27,North America,Scale,3,954.51,cust_249
+3048,2026-07-29,North America,Enterprise,2,1920.62,cust_170
+3049,2026-08-20,North America,Starter,2,59.73,cust_147
+3050,2026-07-14,Europe,Growth,4,426.06,cust_148
+3051,2026-08-03,North America,Starter,1,28.76,cust_183
+3052,2026-10-09,Asia Pacific,Growth,5,507.96,cust_240
+3053,2026-04-26,Europe,Scale,1,327.38,cust_52
+3054,2026-02-05,Asia Pacific,Enterprise,1,898.80,cust_208
+3055,2026-02-13,Europe,Starter,2,61.57,cust_352
+3056,2026-05-04,North America,Scale,4,1193.49,cust_85
+3057,2026-06-16,North America,Scale,3,877.55,cust_124
+3058,2026-05-21,Asia Pacific,Growth,4,370.64,cust_73
+3059,2026-01-29,North America,Scale,1,323.05,cust_90
+3060,2026-03-04,North America,Growth,3,283.65,cust_157
+3061,2026-04-09,North America,Starter,5,150.44,cust_94
+3062,2026-09-15,North America,Scale,5,1625.99,cust_131
+3063,2026-04-20,North America,Enterprise,1,862.09,cust_71
+3064,2026-01-19,Europe,Starter,5,141.18,cust_162
+3065,2026-01-21,Asia Pacific,Starter,3,89.36,cust_237
+3066,2026-03-14,Europe,Scale,1,304.27,cust_304
+3067,2026-05-14,Europe,Growth,5,509.14,cust_219
+3068,2026-09-11,Europe,Starter,2,63.65,cust_315
+3069,2026-01-02,Asia Pacific,Starter,1,27.48,cust_231
+3070,2026-08-07,Asia Pacific,Starter,5,150.76,cust_8
+3071,2026-01-22,North America,Growth,1,93.23,cust_328
+3072,2026-06-04,Europe,Growth,1,102.70,cust_6
+3073,2026-08-20,Europe,Enterprise,3,2840.92,cust_58
+3074,2026-07-23,North America,Growth,4,379.95,cust_178
+3075,2026-06-29,North America,Scale,2,625.60,cust_164
+3076,2026-06-03,North America,Starter,4,109.79,cust_216
+3077,2026-03-24,Europe,Starter,1,30.08,cust_112
+3078,2026-03-24,North America,Scale,4,1146.20,cust_296
+3079,2026-01-04,North America,Starter,5,141.09,cust_1
+3080,2026-04-17,North America,Starter,1,28.02,cust_200
+3081,2026-01-04,Asia Pacific,Starter,1,27.27,cust_287
+3082,2026-05-06,North America,Scale,2,599.95,cust_115
+3083,2026-07-08,North America,Enterprise,5,4358.64,cust_79
+3084,2026-05-25,North America,Starter,1,28.45,cust_346
+3085,2026-06-25,Latin America,Starter,4,114.84,cust_229
+3086,2026-02-06,North America,Enterprise,5,4939.56,cust_197
+3087,2026-02-10,North America,Growth,1,99.38,cust_203
+3088,2026-05-10,North America,Starter,5,137.87,cust_32
+3089,2026-09-19,Europe,Scale,1,293.36,cust_192
+3090,2026-08-04,Europe,Scale,5,1449.86,cust_296
+3091,2026-04-15,Europe,Enterprise,5,4163.10,cust_260
+3092,2026-06-14,North America,Scale,4,1259.84,cust_30
+3093,2026-09-11,Europe,Starter,2,52.53,cust_152
+3094,2026-04-16,Europe,Growth,4,409.74,cust_52
+3095,2026-06-23,North America,Starter,1,28.40,cust_92
+3096,2026-08-17,Europe,Starter,5,157.33,cust_225
+3097,2026-06-21,North America,Scale,4,1252.99,cust_44
+3098,2026-04-03,North America,Starter,4,125.15,cust_65
+3099,2026-04-11,Europe,Starter,1,27.52,cust_172
+3100,2026-06-25,North America,Scale,4,1129.61,cust_142
+3101,2026-06-03,North America,Enterprise,5,4618.98,cust_301
+3102,2026-10-01,Europe,Starter,5,150.30,cust_139
+3103,2026-06-29,North America,Growth,5,459.36,cust_156
+3104,2026-07-12,North America,Scale,2,594.82,cust_300
+3105,2026-08-03,North America,Starter,3,90.42,cust_46
+3106,2026-07-30,Europe,Starter,4,117.15,cust_163
+3107,2026-05-22,Asia Pacific,Starter,2,58.96,cust_145
+3108,2026-01-19,North America,Growth,4,387.44,cust_231
+3109,2026-08-18,North America,Starter,4,126.54,cust_75
+3110,2026-04-07,North America,Starter,1,31.40,cust_145
+3111,2026-03-26,North America,Starter,1,26.85,cust_354
+3112,2026-07-14,North America,Scale,4,1092.36,cust_122
+3113,2026-07-18,North America,Starter,2,53.46,cust_252
+3114,2026-03-09,Europe,Starter,3,82.71,cust_42
+3115,2026-03-02,North America,Starter,4,125.07,cust_60
+3116,2026-06-05,North America,Starter,3,84.60,cust_16
+3117,2026-01-16,North America,Growth,3,295.59,cust_324
+3118,2026-01-26,Europe,Growth,5,504.72,cust_182
+3119,2026-07-11,Europe,Starter,1,31.25,cust_56
+3120,2026-05-09,North America,Starter,3,95.28,cust_380
+3121,2026-10-02,North America,Growth,1,89.26,cust_252
+3122,2026-09-09,North America,Starter,2,62.82,cust_276
+3123,2026-07-20,Europe,Scale,3,964.39,cust_271
+3124,2026-05-24,Asia Pacific,Scale,1,276.79,cust_329
+3125,2026-08-29,North America,Growth,2,183.83,cust_362
+3126,2026-04-24,North America,Scale,2,559.19,cust_56
+3127,2026-07-26,Europe,Enterprise,4,3501.71,cust_352
+3128,2026-07-22,North America,Enterprise,3,2493.35,cust_129
+3129,2026-07-25,Latin America,Growth,1,106.40,cust_366
+3130,2026-04-05,North America,Scale,3,880.08,cust_290
+3131,2026-04-26,Europe,Growth,4,407.93,cust_252
+3132,2026-02-15,Europe,Scale,2,575.48,cust_313
+3133,2026-06-18,North America,Enterprise,3,2734.66,cust_111
+3134,2026-06-17,North America,Scale,1,295.75,cust_330
+3135,2026-02-24,Asia Pacific,Starter,3,78.53,cust_289
+3136,2026-04-20,North America,Starter,1,28.66,cust_151
+3137,2026-07-29,North America,Starter,4,126.37,cust_346
+3138,2026-05-28,Europe,Scale,3,867.97,cust_289
+3139,2026-08-21,North America,Starter,1,31.52,cust_148
+3140,2026-08-22,Asia Pacific,Starter,4,119.43,cust_282
+3141,2026-09-28,North America,Starter,3,81.64,cust_212
+3142,2026-02-06,North America,Starter,5,139.01,cust_141
+3143,2026-07-15,Europe,Scale,5,1568.55,cust_245
+3144,2026-10-09,North America,Growth,4,416.50,cust_58
+3145,2026-10-01,North America,Growth,1,105.76,cust_178
+3146,2026-08-22,North America,Scale,4,1215.84,cust_184
+3147,2026-03-17,Latin America,Starter,5,156.67,cust_54
+3148,2026-08-21,North America,Enterprise,5,4607.61,cust_202
+3149,2026-04-02,Asia Pacific,Enterprise,4,3482.88,cust_157
+3150,2026-02-19,North America,Growth,3,295.19,cust_120
+3151,2026-02-12,North America,Growth,5,469.96,cust_91
+3152,2026-04-06,North America,Enterprise,1,809.63,cust_331
+3153,2026-03-14,North America,Starter,2,63.19,cust_22
+3154,2026-04-03,Asia Pacific,Starter,1,27.26,cust_323
+3155,2026-02-13,North America,Enterprise,4,3261.45,cust_72
+3156,2026-04-26,North America,Starter,1,26.82,cust_113
+3157,2026-01-01,Europe,Starter,5,148.14,cust_340
+3158,2026-01-11,North America,Starter,2,56.70,cust_191
+3159,2026-05-23,North America,Enterprise,4,3947.20,cust_303
+3160,2026-05-22,North America,Starter,2,54.55,cust_349
+3161,2026-03-27,Europe,Starter,5,137.07,cust_136
+3162,2026-05-06,North America,Enterprise,4,3655.75,cust_82
+3163,2026-02-03,North America,Enterprise,4,3905.65,cust_214
+3164,2026-02-01,North America,Growth,5,525.44,cust_273
+3165,2026-07-08,Europe,Enterprise,1,918.39,cust_118
+3166,2026-05-18,Europe,Starter,2,54.75,cust_207
+3167,2026-04-17,Europe,Starter,3,91.96,cust_313
+3168,2026-09-27,North America,Starter,4,105.31,cust_323
+3169,2026-08-11,Europe,Starter,3,82.78,cust_244
+3170,2026-03-24,North America,Starter,5,142.30,cust_379
+3171,2026-01-28,North America,Enterprise,2,1960.70,cust_97
+3172,2026-06-06,North America,Starter,1,26.63,cust_215
+3173,2026-07-19,Europe,Scale,5,1364.73,cust_198
+3174,2026-05-03,Asia Pacific,Starter,2,58.61,cust_340
+3175,2026-03-29,North America,Starter,4,120.23,cust_313
+3176,2026-03-14,North America,Starter,5,131.52,cust_219
+3177,2026-06-15,Europe,Growth,3,300.45,cust_368
+3178,2026-08-07,North America,Starter,4,114.10,cust_106
+3179,2026-04-27,North America,Growth,1,93.98,cust_315
+3180,2026-09-28,North America,Scale,2,611.97,cust_30
+3181,2026-06-21,Europe,Growth,2,203.90,cust_151
+3182,2026-02-10,Europe,Starter,3,78.65,cust_145
+3183,2026-07-05,North America,Growth,2,181.87,cust_89
+3184,2026-08-08,North America,Scale,3,908.41,cust_34
+3185,2026-08-22,Asia Pacific,Scale,2,558.64,cust_110
+3186,2026-09-02,Asia Pacific,Starter,5,158.56,cust_129
+3187,2026-07-22,Latin America,Starter,2,52.76,cust_241
+3188,2026-02-15,North America,Growth,5,538.10,cust_106
+3189,2026-04-22,North America,Starter,1,28.94,cust_372
+3190,2026-01-31,North America,Starter,2,60.72,cust_350
+3191,2026-02-06,North America,Enterprise,5,4475.32,cust_107
+3192,2026-05-18,North America,Growth,3,323.02,cust_224
+3193,2026-08-04,North America,Scale,1,278.43,cust_368
+3194,2026-02-19,Europe,Scale,2,607.19,cust_319
+3195,2026-01-12,Europe,Scale,4,1280.49,cust_18
+3196,2026-06-27,North America,Starter,5,130.61,cust_159
+3197,2026-07-03,North America,Growth,2,206.28,cust_38
+3198,2026-03-18,Europe,Enterprise,1,917.62,cust_16
+3199,2026-03-29,North America,Growth,4,398.73,cust_262
+3200,2026-07-27,North America,Scale,4,1288.39,cust_268
+3201,2026-01-13,North America,Enterprise,1,814.99,cust_239
+3202,2026-10-05,Asia Pacific,Scale,2,594.33,cust_313
+3203,2026-01-18,North America,Growth,3,321.42,cust_134
+3204,2026-01-05,North America,Starter,5,150.54,cust_242
+3205,2026-07-10,North America,Growth,3,274.05,cust_348
+3206,2026-09-28,North America,Starter,4,114.03,cust_53
+3207,2026-03-30,Asia Pacific,Enterprise,1,962.45,cust_349
+3208,2026-02-06,North America,Enterprise,2,1843.43,cust_302
+3209,2026-06-25,North America,Starter,5,153.22,cust_165
+3210,2026-05-18,North America,Enterprise,3,2605.65,cust_371
+3211,2026-07-29,North America,Enterprise,1,861.87,cust_181
+3212,2026-09-17,North America,Scale,2,608.11,cust_4
+3213,2026-01-04,North America,Growth,2,209.83,cust_83
+3214,2026-03-18,North America,Starter,3,87.19,cust_178
+3215,2026-02-15,North America,Starter,1,31.68,cust_103
+3216,2026-04-04,Europe,Scale,1,281.08,cust_37
+3217,2026-08-23,North America,Growth,5,488.82,cust_180
+3218,2026-09-30,North America,Scale,2,561.47,cust_35
+3219,2026-01-30,Asia Pacific,Starter,4,108.43,cust_39
+3220,2026-05-26,North America,Starter,5,134.51,cust_219
+3221,2026-04-18,North America,Growth,2,195.91,cust_84
+3222,2026-03-29,Europe,Scale,2,652.48,cust_20
+3223,2026-09-20,North America,Starter,5,149.72,cust_344
+3224,2026-01-07,North America,Starter,3,94.45,cust_300
+3225,2026-03-19,North America,Starter,5,143.16,cust_62
+3226,2026-01-24,Asia Pacific,Starter,1,30.31,cust_177
+3227,2026-04-05,Latin America,Growth,2,201.11,cust_158
+3228,2026-03-05,Europe,Enterprise,3,2921.39,cust_178
+3229,2026-08-09,Europe,Starter,3,91.57,cust_225
+3230,2026-02-17,North America,Growth,1,104.84,cust_219
+3231,2026-05-02,Europe,Growth,1,95.98,cust_46
+3232,2026-07-31,Europe,Scale,4,1086.02,cust_203
+3233,2026-01-06,North America,Starter,5,152.81,cust_228
+3234,2026-07-31,Europe,Growth,1,98.09,cust_292
+3235,2026-04-02,Europe,Growth,2,194.00,cust_56
+3236,2026-09-23,Asia Pacific,Starter,5,136.35,cust_74
+3237,2026-03-23,North America,Starter,4,125.37,cust_144
+3238,2026-02-18,Europe,Starter,5,150.85,cust_107
+3239,2026-06-28,Asia Pacific,Scale,1,326.98,cust_69
+3240,2026-07-05,Europe,Growth,2,187.00,cust_119
+3241,2026-06-26,North America,Starter,1,30.00,cust_328
+3242,2026-09-02,North America,Growth,3,316.46,cust_18
+3243,2026-01-11,Europe,Enterprise,1,912.81,cust_257
+3244,2026-04-15,North America,Starter,3,94.75,cust_219
+3245,2026-01-30,Europe,Starter,4,115.50,cust_28
+3246,2026-01-01,North America,Scale,2,614.16,cust_104
+3247,2026-03-12,Europe,Enterprise,2,1945.48,cust_280
+3248,2026-03-09,North America,Scale,4,1105.91,cust_252
+3249,2026-04-09,North America,Enterprise,1,900.99,cust_300
+3250,2026-03-01,North America,Growth,2,195.97,cust_194
+3251,2026-08-30,North America,Starter,4,119.73,cust_47
+3252,2026-04-08,Asia Pacific,Growth,4,409.63,cust_64
+3253,2026-06-06,Europe,Growth,5,460.01,cust_329
+3254,2026-06-26,North America,Starter,5,157.53,cust_141
+3255,2026-08-25,North America,Starter,2,55.30,cust_260
+3256,2026-07-28,Asia Pacific,Scale,4,1098.26,cust_61
+3257,2026-08-03,North America,Growth,5,542.51,cust_63
+3258,2026-01-16,North America,Growth,1,96.02,cust_237
+3259,2026-02-28,Europe,Starter,4,105.17,cust_218
+3260,2026-09-29,North America,Scale,3,951.20,cust_339
+3261,2026-04-05,North America,Starter,4,121.98,cust_49
+3262,2026-05-17,Europe,Enterprise,2,1870.80,cust_207
+3263,2026-01-09,North America,Enterprise,2,1650.99,cust_286
+3264,2026-08-04,Asia Pacific,Starter,5,157.10,cust_32
+3265,2026-09-24,North America,Growth,5,522.09,cust_370
+3266,2026-06-16,North America,Starter,1,26.47,cust_89
+3267,2026-02-05,North America,Scale,1,318.88,cust_356
+3268,2026-03-11,North America,Starter,4,126.42,cust_25
+3269,2026-05-22,North America,Starter,2,54.06,cust_163
+3270,2026-07-14,North America,Scale,5,1353.47,cust_321
+3271,2026-05-18,North America,Starter,5,148.34,cust_94
+3272,2026-01-06,North America,Enterprise,1,939.62,cust_66
+3273,2026-10-01,North America,Scale,5,1630.41,cust_297
+3274,2026-09-18,North America,Starter,5,145.51,cust_363
+3275,2026-03-09,North America,Growth,2,209.52,cust_62
+3276,2026-06-23,North America,Starter,1,27.74,cust_329
+3277,2026-09-28,North America,Starter,5,151.35,cust_202
+3278,2026-01-23,Europe,Starter,3,83.73,cust_234
+3279,2026-08-07,North America,Starter,2,59.03,cust_17
+3280,2026-09-15,Europe,Enterprise,1,811.17,cust_288
+3281,2026-07-15,North America,Growth,4,411.17,cust_139
+3282,2026-01-03,North America,Starter,2,58.14,cust_280
+3283,2026-03-15,North America,Enterprise,1,852.58,cust_221
+3284,2026-02-16,Europe,Starter,1,30.00,cust_119
+3285,2026-09-02,Europe,Starter,5,130.94,cust_46
+3286,2026-04-04,North America,Enterprise,1,834.31,cust_162
+3287,2026-09-30,North America,Starter,2,56.17,cust_285
+3288,2026-03-10,Europe,Enterprise,4,3557.26,cust_102
+3289,2026-10-06,Asia Pacific,Enterprise,5,4176.79,cust_26
+3290,2026-06-04,North America,Scale,1,327.04,cust_309
+3291,2026-08-24,North America,Starter,5,155.80,cust_261
+3292,2026-04-23,North America,Scale,5,1643.07,cust_152
+3293,2026-05-14,Europe,Enterprise,4,3890.20,cust_254
+3294,2026-08-09,North America,Starter,5,151.19,cust_171
+3295,2026-02-11,Asia Pacific,Scale,1,303.49,cust_119
+3296,2026-07-22,North America,Growth,3,294.94,cust_11
+3297,2026-10-01,Asia Pacific,Scale,2,575.80,cust_18
+3298,2026-04-25,North America,Scale,2,655.89,cust_239
+3299,2026-02-16,North America,Growth,4,384.86,cust_309
+3300,2026-06-16,North America,Enterprise,2,1912.20,cust_226
+3301,2026-09-20,Europe,Scale,3,839.74,cust_134
+3302,2026-05-18,Asia Pacific,Growth,1,98.24,cust_213
+3303,2026-03-25,North America,Starter,5,145.76,cust_110
+3304,2026-03-01,North America,Growth,4,385.90,cust_255
+3305,2026-03-07,North America,Growth,1,101.88,cust_362
+3306,2026-10-06,North America,Starter,1,31.50,cust_261
+3307,2026-03-29,Europe,Starter,1,27.15,cust_203
+3308,2026-08-10,North America,Starter,3,91.77,cust_121
+3309,2026-08-26,Europe,Enterprise,1,846.26,cust_144
+3310,2026-03-12,Asia Pacific,Starter,2,54.42,cust_57
+3311,2026-01-25,North America,Growth,2,205.32,cust_133
+3312,2026-08-19,North America,Starter,3,78.42,cust_6
+3313,2026-06-12,North America,Starter,1,28.72,cust_139
+3314,2026-03-16,North America,Growth,3,321.32,cust_141
+3315,2026-08-10,North America,Starter,4,116.23,cust_178
+3316,2026-04-09,Europe,Growth,2,188.26,cust_339
+3317,2026-05-09,North America,Scale,5,1578.81,cust_163
+3318,2026-05-03,North America,Enterprise,2,1952.52,cust_107
+3319,2026-04-28,Europe,Enterprise,2,1937.11,cust_17
+3320,2026-09-18,North America,Enterprise,3,2568.62,cust_300
+3321,2026-01-16,North America,Scale,1,313.46,cust_287
+3322,2026-03-26,Europe,Scale,4,1157.18,cust_97
+3323,2026-09-26,North America,Starter,1,28.87,cust_315
+3324,2026-02-23,North America,Scale,1,320.72,cust_246
+3325,2026-09-23,Europe,Enterprise,5,4507.36,cust_285
+3326,2026-06-14,North America,Starter,3,91.01,cust_169
+3327,2026-04-18,North America,Starter,3,88.00,cust_309
+3328,2026-03-22,Asia Pacific,Enterprise,5,4408.01,cust_60
+3329,2026-05-12,North America,Growth,5,522.41,cust_28
+3330,2026-06-24,North America,Starter,2,54.93,cust_305
+3331,2026-06-08,Asia Pacific,Starter,5,149.60,cust_253
+3332,2026-06-11,North America,Growth,2,211.27,cust_376
+3333,2026-07-29,Europe,Starter,4,107.17,cust_266
+3334,2026-06-20,North America,Growth,5,462.57,cust_375
+3335,2026-07-22,Europe,Enterprise,4,3330.28,cust_258
+3336,2026-01-07,North America,Starter,1,29.52,cust_12
+3337,2026-05-02,Europe,Starter,3,94.11,cust_111
+3338,2026-07-26,North America,Enterprise,4,3632.49,cust_190
+3339,2026-08-04,North America,Growth,2,191.50,cust_376
+3340,2026-10-05,North America,Growth,1,91.60,cust_285
+3341,2026-01-27,North America,Starter,1,31.03,cust_277
+3342,2026-01-21,Asia Pacific,Starter,4,116.90,cust_350
+3343,2026-02-27,North America,Starter,1,27.89,cust_30
+3344,2026-02-07,North America,Growth,2,200.22,cust_64
+3345,2026-08-26,Europe,Starter,5,149.54,cust_287
+3346,2026-04-12,North America,Growth,3,310.91,cust_77
+3347,2026-05-18,North America,Starter,2,55.60,cust_222
+3348,2026-07-02,North America,Growth,1,96.63,cust_119
+3349,2026-09-22,North America,Growth,1,90.59,cust_37
+3350,2026-01-15,North America,Starter,4,107.20,cust_141
+3351,2026-04-04,North America,Growth,1,91.53,cust_56
+3352,2026-05-19,Europe,Starter,3,80.82,cust_143
+3353,2026-01-28,Europe,Starter,3,89.01,cust_44
+3354,2026-09-17,North America,Enterprise,2,1888.65,cust_99
+3355,2026-01-11,North America,Starter,4,111.80,cust_85
+3356,2026-03-28,North America,Growth,2,191.95,cust_274
+3357,2026-07-05,Latin America,Enterprise,4,3413.41,cust_257
+3358,2026-05-12,North America,Starter,4,106.59,cust_254
+3359,2026-06-04,North America,Starter,2,52.32,cust_107
+3360,2026-05-21,North America,Starter,5,148.80,cust_311
+3361,2026-07-04,North America,Starter,5,131.63,cust_139
+3362,2026-09-05,Asia Pacific,Scale,4,1211.14,cust_226
+3363,2026-02-19,North America,Starter,2,62.68,cust_208
+3364,2026-07-25,Europe,Starter,3,78.43,cust_91
+3365,2026-04-29,Europe,Starter,1,31.20,cust_85
+3366,2026-09-11,North America,Starter,3,93.70,cust_318
+3367,2026-05-14,Asia Pacific,Growth,3,268.62,cust_48
+3368,2026-09-19,Asia Pacific,Starter,4,118.47,cust_56
+3369,2026-05-05,Europe,Growth,1,90.25,cust_351
+3370,2026-09-27,Latin America,Starter,5,130.81,cust_40
+3371,2026-03-24,North America,Growth,4,407.68,cust_325
+3372,2026-08-15,North America,Enterprise,5,4620.92,cust_268
+3373,2026-02-21,North America,Starter,4,119.84,cust_11
+3374,2026-05-17,Europe,Enterprise,5,4130.79,cust_232
+3375,2026-05-24,North America,Starter,2,58.10,cust_298
+3376,2026-07-13,Asia Pacific,Growth,4,415.44,cust_91
+3377,2026-04-03,North America,Starter,3,92.91,cust_30
+3378,2026-03-19,North America,Growth,2,198.09,cust_100
+3379,2026-02-23,North America,Scale,4,1113.77,cust_104
+3380,2026-05-27,North America,Growth,5,484.51,cust_160
+3381,2026-05-31,Asia Pacific,Growth,3,323.69,cust_16
+3382,2026-10-02,North America,Starter,4,113.06,cust_67
+3383,2026-04-08,Europe,Starter,1,27.28,cust_126
+3384,2026-05-17,North America,Starter,4,115.75,cust_67
+3385,2026-02-13,North America,Growth,5,450.15,cust_260
+3386,2026-02-02,North America,Starter,3,79.61,cust_115
+3387,2026-08-20,Asia Pacific,Scale,2,569.71,cust_100
+3388,2026-05-24,Europe,Scale,2,549.00,cust_8
+3389,2026-02-23,North America,Scale,1,292.73,cust_129
+3390,2026-09-02,North America,Scale,4,1266.93,cust_320
+3391,2026-06-03,North America,Enterprise,3,2571.27,cust_245
+3392,2026-02-09,North America,Enterprise,4,3502.57,cust_312
+3393,2026-09-28,North America,Growth,1,90.44,cust_153
+3394,2026-05-16,North America,Starter,4,124.53,cust_258
+3395,2026-02-12,North America,Starter,2,60.33,cust_98
+3396,2026-03-23,Asia Pacific,Starter,2,60.74,cust_214
+3397,2026-04-19,North America,Starter,5,137.20,cust_80
+3398,2026-06-14,Asia Pacific,Scale,2,542.46,cust_15
+3399,2026-06-28,North America,Starter,2,55.32,cust_103
+3400,2026-07-20,Europe,Starter,2,55.54,cust_158

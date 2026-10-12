@@ -1,0 +1,212 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: ui-rounded, "SF Pro Rounded", -apple-system, "Inter", system-ui, sans-serif;
+  --font-mono: ui-monospace, "SF Mono", Menlo, monospace;
+
+  --color-bg: #faf9f6;
+  --color-surface: #ffffff;
+  --color-surface-2: #f3f1fa;
+  --color-surface-3: #ebe8f5;
+  --color-line: rgba(28, 27, 40, 0.08);
+  --color-line-strong: rgba(28, 27, 40, 0.16);
+  --color-ink: #1c1b22;
+  --color-ink-2: #4b4957;
+  --color-muted: #7a7888;
+  --color-lilac: #7c6cf6;
+  --color-lilac-soft: #e9e5ff;
+  --color-mint: #4cc9a5;
+  --color-mint-soft: #dcf6ec;
+  --color-peach: #f6a96c;
+  --color-peach-soft: #ffe7d4;
+  --color-butter: #f2c94c;
+  --color-butter-soft: #fff3c7;
+  --color-rose: #e07ca0;
+  --color-rose-soft: #ffe1ec;
+  --color-danger: #d9534f;
+
+  --radius-xl: 20px;
+  --radius-2xl: 28px;
+
+  --ease-out-strong: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.dark {
+  --color-bg: #111115;
+  --color-surface: #1b1b21;
+  --color-surface-2: #23232b;
+  --color-surface-3: #2b2b35;
+  --color-line: rgba(255, 255, 255, 0.08);
+  --color-line-strong: rgba(255, 255, 255, 0.16);
+  --color-ink: #f1f0f5;
+  --color-ink-2: #c9c7d3;
+  --color-muted: #9c9aa8;
+  --color-lilac-soft: #2d2850;
+  --color-mint-soft: #173a30;
+  --color-peach-soft: #3f2a1a;
+  --color-butter-soft: #3d3516;
+  --color-rose-soft: #3d1f2c;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  overflow: hidden;
+  user-select: none;
+}
+
+::selection {
+  background: var(--color-lilac-soft);
+}
+
+.drag {
+  -webkit-app-region: drag;
+}
+.no-drag {
+  -webkit-app-region: no-drag;
+}
+
+.selectable {
+  user-select: text;
+}
+
+/* soft card */
+.card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-xl);
+}
+
+/* press feedback */
+.pressable {
+  transition: transform 160ms var(--ease-out-strong), background-color 160ms ease, border-color 160ms ease, opacity 160ms ease;
+}
+.pressable:active {
+  transform: scale(0.97);
+}
+
+@keyframes bob {
+  0%,
+  100% {
+    transform: translateY(0) rotate(-1deg);
+  }
+  50% {
+    transform: translateY(-8px) rotate(1deg);
+  }
+}
+.bob {
+  animation: bob 3.6s ease-in-out infinite;
+}
+
+@keyframes pop-in {
+  from {
+    opacity: 0;
+    transform: scale(0.96) translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.pop-in {
+  animation: pop-in 320ms var(--ease-out-strong) both;
+}
+
+@keyframes pulse-soft {
+  0%,
+  100% {
+    opacity: 0.45;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+.pulse-soft {
+  animation: pulse-soft 1.4s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .bob,
+  .pop-in,
+  .pulse-soft {
+    animation: none;
+  }
+}
+
+/* thin scrollbars */
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+*::-webkit-scrollbar-thumb {
+  background: var(--color-line-strong);
+  border-radius: 999px;
+  border: 3px solid transparent;
+  background-clip: padding-box;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+input,
+textarea,
+select {
+  font: inherit;
+  color: inherit;
+}
+
+/* Live mascot scene swaps */
+@keyframes mascot-in {
+  from { opacity: 0; transform: scale(0.94) translateY(4px); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes mascot-out {
+  from { opacity: 1; transform: none; }
+  to { opacity: 0; transform: scale(1.03); }
+}
+.mascot-in { animation: mascot-in 520ms var(--ease-spring) both; }
+.mascot-out { animation: mascot-out 360ms var(--ease-out-strong) both; }
+@keyframes caption-in {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: none; }
+}
+.caption-in { animation: caption-in 360ms var(--ease-out-strong) both; }
+@media (prefers-reduced-motion: reduce) {
+  .mascot-in, .mascot-out, .caption-in { animation: none; }
+}
+
+/* Welcome tour: direction-aware slide changes */
+@keyframes tour-copy-in {
+  from { opacity: 0; transform: translateX(calc(var(--dir, 1) * 18px)); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes tour-art-in {
+  from { opacity: 0; transform: translateX(calc(var(--dir, 1) * 28px)) scale(0.96); }
+  to { opacity: 1; transform: none; }
+}
+.tour-copy { animation: tour-copy-in 380ms var(--ease-out-strong) both; }
+.tour-art { animation: tour-art-in 620ms var(--ease-spring) both; }
+@media (prefers-reduced-motion: reduce) {
+  .tour-copy, .tour-art { animation: none; }
+}
+
+/* Build strip progress bar while Dashie has no plan yet. */
+@keyframes strip-indeterminate {
+  from { transform: translateX(-120%); }
+  to { transform: translateX(300%); }
+}
+.strip-indeterminate {
+  animation: strip-indeterminate 1.6s ease-in-out infinite;
+}

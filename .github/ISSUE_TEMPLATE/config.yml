@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security issue
+    url: https://github.com/TreyBros/MyDashie/blob/main/SECURITY.md
+    about: Please report vulnerabilities privately, not as an issue.
+  - name: MyDashie Cloud billing or account help
+    url: mailto:hello@mydashie.com
+    about: Questions about credits, plans or your account.

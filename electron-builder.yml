@@ -1,0 +1,58 @@
+appId: com.mydashie.app
+productName: MyDashie
+copyright: Copyright © 2026 MyDashie
+directories:
+  buildResources: resources
+  output: release
+files:
+  - out/**
+  - package.json
+  - "!**/*.map"
+extraResources:
+  - from: resources/libs
+    to: libs
+  - from: resources/brand
+    to: brand
+protocols:
+  - name: MyDashie
+    schemes: [mydashie]
+asarUnpack:
+  - "**/node_modules/@duckdb/**"
+publish:
+  provider: github
+  owner: TreyBros
+  repo: mydashie
+mac:
+  category: public.app-category.productivity
+  target:
+    - target: dmg
+      arch: [arm64, x64]
+    - target: zip
+      arch: [arm64, x64]
+  artifactName: "MyDashie-${arch}.${ext}"
+  icon: resources/icon.icns
+  darkModeSupport: true
+  hardenedRuntime: false
+  gatekeeperAssess: false
+  identity: null
+  extendInfo:
+    LSUIElement: false
+    NSUserNotificationAlertStyle: alert
+dmg:
+  artifactName: "MyDashie-${arch}.${ext}"
+  contents:
+    - x: 140
+      y: 180
+    - x: 400
+      y: 180
+      type: link
+      path: /Applications
+win:
+  target:
+    - target: nsis
+      arch: [x64]
+  icon: resources/icon.ico
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+npmRebuild: false
